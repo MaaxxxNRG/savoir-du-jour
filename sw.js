@@ -1,6 +1,6 @@
 /* Un savoir par jour : cache hors ligne.
    L'interface est servie depuis le cache, les savoirs sont toujours redemandés au réseau d'abord. */
-const CACHE = "savoir-v2";
+const CACHE = "savoir-v3";
 const SHELL = [
   "./",
   "index.html",
@@ -8,6 +8,7 @@ const SHELL = [
   "icons/icon-192.png",
   "icons/icon-512.png",
   "icons/apple-touch-icon.png",
+  "icons/apple-touch-icon-nuit.png",
   "fonts/opendyslexic-400.woff2",
   "fonts/opendyslexic-700.woff2",
   "fonts/opendyslexic-400-italic.woff2"

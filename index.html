@@ -12,7 +12,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
-<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="apple-touch-icon" id="touch-icon" href="icons/apple-touch-icon.png">
 <title>Un savoir par jour</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -657,11 +657,22 @@ try { var m = localStorage.getItem("savoir-mode"); if (m === "light" || m === "d
   }
 
 
+  // Icône d'écran d'accueil : iOS la copie au moment de « Sur l'écran d'accueil »,
+  // on lui donne donc la version nuit quand l'app est affichée en mode nuit.
+  var darkQuery = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+  function syncTouchIcon() {
+    var m = document.documentElement.getAttribute("data-mode");
+    var dark = m === "dark" || (m !== "light" && darkQuery && darkQuery.matches);
+    $("touch-icon").setAttribute("href", dark ? "icons/apple-touch-icon-nuit.png" : "icons/apple-touch-icon.png");
+  }
+  if (darkQuery && darkQuery.addEventListener) darkQuery.addEventListener("change", syncTouchIcon);
+
   function applyMode(mode) {
     var root = document.documentElement;
     if (mode === "light" || mode === "dark") root.setAttribute("data-mode", mode); else root.removeAttribute("data-mode");
     ["light", "dark", "system"].forEach(function (m) { $("mode-" + m).setAttribute("aria-pressed", m === (mode || "system") ? "true" : "false"); });
     try { if (mode === "light" || mode === "dark") localStorage.setItem("savoir-mode", mode); else localStorage.removeItem("savoir-mode"); } catch (e) {}
+    syncTouchIcon();
   }
   function applyDys(on) {
     document.body.classList.toggle("dys", on);
