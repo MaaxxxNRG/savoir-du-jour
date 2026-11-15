@@ -1,0 +1,402 @@
+{
+  "titre": "Un savoir par jour",
+  "savoirs": [
+    {
+      "n": 1,
+      "date": "2026-11-15",
+      "domaine": "Zoologie",
+      "titre": "Le poulpe a trois cœurs, et l'un d'eux s'arrête quand il nage",
+      "chapo": "Du sang bleu et trois pompes au lieu d'une : l'anatomie du poulpe a l'air extravagante. Elle répond en fait à un problème très concret, respirer et bouger sous l'eau.",
+      "chiffre": {
+        "valeur": "3",
+        "legende": "cœurs : deux pour les branchies, un pour le reste du corps"
+      },
+      "court": "Le poulpe possède trois cœurs. Deux cœurs dits branchiaux sont placés à la base de ses deux branchies : chacun pousse le sang pauvre en oxygène à travers une branchie, où il se recharge au contact de l'eau. Le troisième, le cœur systémique, récupère ce sang oxygéné et l'envoie vers les organes, le cerveau et les huit bras. Ce sang est bleu, pour de vrai. Chez nous, l'oxygène voyage grâce à l'hémoglobine, une protéine à base de fer qui colore le sang en rouge. Chez le poulpe, c'est l'hémocyanine qui s'en charge, une protéine à base de cuivre qui devient bleue quand elle fixe l'oxygène. Elle fonctionne bien dans l'eau froide et pauvre en oxygène, mais demande une circulation sous pression, d'où l'intérêt d'avoir plusieurs pompes. Détail étonnant : quand le poulpe nage en propulsion, son cœur systémique ralentit fortement, voire s'arrête un instant. Nager l'épuise vite, et c'est pour cela qu'il préfère marcher sur le fond avec ses bras.",
+      "detaille": [
+        "Le poulpe et la pieuvre sont le même animal. Ce mollusque sans os, cousin éloigné de l'escargot et de la moule, appartient aux céphalopodes, comme la seiche et le calmar. C'est un animal très actif : il chasse des crabes et des poissons, se cache dans les rochers, change de couleur et explore son environnement. Tout cela demande beaucoup d'oxygène, alors que l'eau en contient bien moins que l'air.",
+        "Pour y faire face, son système circulatoire fonctionne comme un relais à deux étages. Le sang usé, qui revient des organes, arrive d'abord aux deux cœurs branchiaux, placés chacun à la base d'une branchie. Ils le poussent à travers les branchies, où il se recharge en oxygène. Ce sang frais rejoint ensuite le cœur systémique, plus gros, qui l'expédie sous pression dans tout le corps. Les trois cœurs ne sont donc pas des copies de secours : chacun a son rôle.",
+        "Autre originalité, la circulation du poulpe est fermée : le sang reste en permanence dans des vaisseaux, comme chez nous. Beaucoup de mollusques ont au contraire une circulation plus ouverte, où le sang baigne directement les organes. Chez les céphalopodes actifs, ce réseau fermé permet de livrer l'oxygène avec plus de pression et de précision.",
+        "Ce découpage a une logique simple. Chez nous, un seul cœur, divisé en deux moitiés, fait les deux travaux : la moitié droite envoie le sang vers les poumons, la gauche vers le reste du corps. Le poulpe a séparé physiquement ces deux tâches en organes distincts. Les deux cœurs branchiaux jouent le rôle de notre cœur droit, le cœur systémique celui de notre cœur gauche.",
+        "Vient ensuite la couleur. Notre sang est rouge parce que l'hémoglobine, enfermée dans les globules rouges, transporte l'oxygène grâce au fer. Le sang du poulpe ne contient pas d'hémoglobine. Il utilise l'hémocyanine, une grosse protéine à base de cuivre qui flotte directement dans le plasma et prend une teinte bleue lorsqu'elle porte de l'oxygène. Ce n'est pas un effet de lumière à travers la peau : le sang oxygéné est réellement bleuté. On retrouve ce pigment chez de nombreux mollusques et chez certains crustacés.",
+        "L'hémocyanine a un avantage : elle reste efficace dans des eaux froides ou pauvres en oxygène. Elle impose en revanche un débit et une pression sanguine suffisants, ce que les trois cœurs permettent d'assurer.",
+        "Le système a pourtant un point faible. Pour fuir, le poulpe se propulse comme une fusée : il contracte son manteau et chasse l'eau par son siphon. Cette contraction gêne le retour du sang vers le cœur systémique, qui ralentit fortement ou s'arrête quelques instants. Les cœurs branchiaux, eux, continuent de battre. Résultat, la nage par réaction est réservée aux urgences, et le poulpe se déplace surtout en marchant sur ses bras.",
+        "Ces trois cœurs ne sont qu'une partie d'une anatomie hors normes. Le poulpe n'a pas d'os, sa peau change de couleur et de texture grâce à des millions de cellules pigmentaires, et une grande partie de ses neurones se trouve dans ses bras, capables de traiter des informations et de coordonner des gestes complexes par eux-mêmes. Tout cela consomme de l'énergie, et donc de l'oxygène : la circulation en trois pompes est au service de ce corps très exigeant.",
+        "Le poulpe n'est pas seul dans ce cas. La seiche et le calmar, ses proches cousins, ont eux aussi trois cœurs et un sang à hémocyanine. Ce n'est donc pas une bizarrerie isolée, mais une solution partagée par toute une famille d'animaux marins rapides et intelligents."
+      ],
+      "analyse": [
+        "## Un mollusque qui vit à toute vitesse",
+        "Pour comprendre les trois cœurs du poulpe, il faut partir de son mode de vie. Le poulpe est un mollusque, de la même grande famille que l'escargot, l'huître ou la moule. Mais là où ses cousins vivent lentement, lui mène une vie de prédateur actif. Il chasse des crabes, des coquillages et des poissons, qu'il paralyse avec une salive venimeuse injectée par son bec. Il se faufile dans des anfractuosités minuscules puisqu'il n'a pas d'os, change de couleur et de texture en une fraction de seconde grâce à des millions de cellules pigmentaires, les chromatophores, et peut même brouiller la vue d'un prédateur avec un nuage d'encre.",
+        "Ce train de vie coûte cher en énergie, donc en oxygène. Or l'eau de mer en contient beaucoup moins que l'air, et l'oxygène y diffuse lentement. Le poulpe doit donc extraire efficacement l'oxygène de l'eau, puis le distribuer rapidement à des muscles et à un système nerveux très gourmands. Son anatomie circulatoire est la réponse à ce problème.",
+        "## Un relais en trois pompes",
+        "Le circuit commence par le sang usé, qui revient des organes après y avoir laissé son oxygène. Il arrive aux deux cœurs branchiaux, situés chacun à la base d'une branchie. Ces petites pompes le poussent dans les fines lamelles des branchies, où il se recharge au contact de l'eau. Le sang oxygéné rejoint alors le cœur systémique, le plus gros des trois, qui l'envoie sous pression vers les organes, le cerveau et les huit bras.",
+        "On peut comparer l'ensemble à un relais : deux pompes font passer le sang au poste de ravitaillement, une troisième organise la distribution générale. Les trois cœurs ne sont donc ni des doublons ni des cœurs de secours, mais des organes spécialisés.",
+        "Ce circuit est en outre fermé : le sang ne quitte jamais ses vaisseaux. C'est une singularité chez les mollusques, dont beaucoup ont une circulation plus ouverte, où le sang se répand dans des cavités et baigne directement les organes. Les céphalopodes actifs, comme le poulpe, la seiche et le calmar, ont développé ce réseau fermé, qui permet de maintenir une pression plus élevée et d'acheminer l'oxygène plus vite et plus précisément.",
+        "## Pourquoi du cuivre plutôt que du fer",
+        "La couleur du sang dépend de la molécule qui transporte l'oxygène. Chez les vertébrés, c'est l'hémoglobine, une protéine construite autour d'atomes de fer et enfermée dans les globules rouges : elle donne au sang sa couleur rouge. Chez le poulpe, ce rôle revient à l'hémocyanine, une très grosse protéine construite autour d'atomes de cuivre. Incolore quand elle est vide, elle devient bleue lorsqu'elle fixe l'oxygène.",
+        "Deux différences sont essentielles. D'abord, l'hémocyanine n'est pas rangée dans des cellules : elle flotte librement dans le plasma. Ensuite, elle reste efficace dans des eaux froides ou pauvres en oxygène, un atout pour un animal marin. La contrepartie est qu'elle impose un système circulatoire capable de maintenir un débit et une pression suffisants. Les trois cœurs participent à cet équilibre. On entend parfois que l'hémocyanine, plus « épaisse », expliquerait à elle seule le besoin de trois cœurs : l'idée est séduisante, mais elle reste une explication parmi d'autres, liée aussi à la présence des branchies et au mode de vie actif de l'animal.",
+        "Pour se représenter la logique, on peut comparer avec notre propre cœur. Il est en réalité double : sa moitié droite envoie le sang vers les poumons pour qu'il se recharge, sa moitié gauche le distribue ensuite dans le corps. Le poulpe fait exactement la même chose, mais avec des organes séparés : les deux cœurs branchiaux font le travail de notre cœur droit, le cœur systémique celui de notre cœur gauche. Deux solutions différentes au même problème, trouvées par des lignées qui ont évolué chacune de leur côté pendant des centaines de millions d'années.",
+        "## Nager coûte cher",
+        "Le poulpe dispose d'un moteur à réaction naturel. En contractant brusquement son manteau, il chasse l'eau par son siphon et file en arrière. C'est parfait pour une fuite éclair, beaucoup moins pour se promener. Cette forte contraction écrase la zone où le sang revient vers le cœur systémique, dont l'activité ralentit fortement, voire s'interrompt brièvement pendant la propulsion. Les cœurs branchiaux continuent de travailler, si bien que la circulation ne s'arrête jamais totalement, mais l'effort épuise vite l'animal.",
+        "Voilà pourquoi on voit surtout le poulpe ramper entre les rochers, en marchant sur ses bras, et ne s'élancer qu'en cas de danger. Lui reprocher sa lenteur reviendrait à reprocher à une voiture de ne pas rouler en permanence pied au plancher : c'est une gestion de l'énergie.",
+        "## Un corps sans os, mais pas sans organisation",
+        "Les trois cœurs ne sont qu'une pièce d'une anatomie déroutante. Une grande partie des neurones du poulpe se trouve dans ses bras, qui peuvent traiter localement des informations sensorielles et coordonner des mouvements complexes sans attendre les ordres du cerveau central. Ses ventouses goûtent et touchent à la fois. Certaines espèces vivent seulement quelques mois, d'autres quatre ou cinq ans.",
+        "Méfiance toutefois envers la formule très partagée « trois cœurs, neuf cerveaux ». Le poulpe a un cerveau central, et chacun de ses bras porte un système nerveux élaboré, ce qui n'en fait pas huit cerveaux identiques au premier. Les trois cœurs et le sang bleu, eux, sont parfaitement réels.",
+        "## Ce qu'il faut retenir",
+        "Vu depuis notre corps de mammifère, le poulpe ressemble à une créature inventée : trois cœurs, du sang bleu, des bras qui goûtent, une peau qui change de couleur et aucun os. Pourtant tout se tient. Deux cœurs rechargent le sang en oxygène, le troisième le distribue, l'hémocyanine le transporte dans l'eau froide, et l'animal marche plutôt que nager pour ménager l'ensemble. L'évolution n'a pas cherché l'élégance : elle a trouvé une solution qui fonctionne dans son milieu."
+      ],
+      "sources": [
+        {
+          "titre": "Trois cœurs, du sang bleu et huit bras : les secrets étonnants du poulpe",
+          "media": "Le Figaro Nautisme",
+          "url": "https://figaronautisme.meteoconsult.fr/actus-nautisme-lifestyle/2026-09-06/91622-trois-coeurs-du-sang-bleu-et-huit-bras-les-secrets-etonnants-du-poulpe"
+        },
+        {
+          "titre": "Poulpe : qu'est-ce que c'est ?",
+          "media": "Futura Sciences",
+          "url": "https://www.futura-sciences.com/planete/definitions/zoologie-poulpe-9551/"
+        },
+        {
+          "titre": "Tout savoir sur le poulpe, en 5 faits étonnants",
+          "media": "Reporterre",
+          "url": "https://reporterre.net/Tout-savoir-sur-le-poulpe-en-5-faits-etonnants"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "date": "2026-11-16",
+      "domaine": "Géographie",
+      "titre": "Le point Nemo, l'endroit le plus isolé de la planète",
+      "chapo": "Au milieu du Pacifique Sud, un point d'océan se trouve plus loin de toute terre que n'importe quel autre. Quand la Station spatiale internationale passe au-dessus, les humains les plus proches sont des astronautes.",
+      "chiffre": {
+        "valeur": "2 688 km",
+        "legende": "jusqu'aux terres émergées les plus proches"
+      },
+      "court": "Le point Nemo est l'endroit de l'océan le plus éloigné de toute terre émergée. Situé dans le Pacifique Sud, par 48°52,6′ S et 123°23,6′ O, il se trouve à 2 688 km des trois terres les plus proches : l'atoll Ducie, dans l'archipel des Pitcairn, au nord, l'îlot Motu Nui, près de l'île de Pâques, au nord-est, et l'île Maher, au large de l'Antarctique, au sud. Il a été calculé en 1992 par l'ingénieur géomètre canadien d'origine croate Hrvoje Lukatela, grâce à des outils de cartographie numérique et non grâce à une expédition. Son nom rend hommage au capitaine Nemo de Jules Verne, et « nemo » signifie « personne » en latin. L'isolement est tel que, lorsque la Station spatiale internationale survole la zone, ses occupants sont plus proches du point que n'importe quel habitant de la planète. Les agences spatiales s'en servent d'ailleurs comme cimetière pour leurs engins en fin de vie, et même ici, des navigateurs ont trouvé des microplastiques dans l'eau de mer.",
+      "detaille": [
+        "En géographie, un pôle d'inaccessibilité désigne le point le plus difficile à atteindre selon un critère donné. Sur un continent, c'est le lieu le plus éloigné de la mer. Dans l'océan, c'est l'inverse : le point le plus éloigné de toute côte. Ce pôle maritime d'inaccessibilité porte un nom depuis les années 1990, le point Nemo.",
+        "Il se trouve dans le Pacifique Sud, par 48°52,6′ S et 123°23,6′ O, au centre exact d'un triangle formé par trois terres situées chacune à 2 688 km : l'atoll Ducie, dans l'archipel britannique des Pitcairn, Motu Nui, un îlot voisin de l'île de Pâques, et l'île Maher, petite île inhabitée au large de la Terre Marie Byrd, en Antarctique. Personne ne l'a « découvert » en bateau. C'est l'ingénieur géomètre Hrvoje Lukatela qui l'a calculé en 1992, à l'aide d'outils numériques de cartographie et de calcul géographique. Aucune des trois terres qui l'encadrent n'est habitée en permanence.",
+        "Le nom est un double clin d'œil : au capitaine Nemo, le marin solitaire de Vingt mille lieues sous les mers, qui fuit la terre ferme, et au latin « nemo », qui signifie « personne ». Il est difficile de trouver plus juste pour un lieu où il n'y a, précisément, personne.",
+        "La fiction avait d'ailleurs devancé la géographie. Dans L'Appel de Cthulhu, publié en 1928, H. P. Lovecraft place la cité engloutie de R'lyeh dans ce coin du Pacifique, à environ 310 km du futur point Nemo. Et en 1997, des océanographes ont enregistré dans la région un son grave et très puissant, surnommé le « Bloop », qu'on a d'abord imaginé venir d'un animal géant. Il s'agissait en réalité de glaces antarctiques en train de se fracturer.",
+        "L'isolement se mesure aussi à la verticale. La Station spatiale internationale orbite à environ 400 km d'altitude, soit près de sept fois moins loin que la terre ferme la plus proche. Quand elle passe au-dessus, ses astronautes sont donc les êtres humains les plus proches de quiconque se trouverait au point Nemo.",
+        "Cet éloignement a une utilité très concrète. Pour éviter que des débris ne tombent sur des zones habitées, les agences spatiales visent une vaste région de quelque 3 000 km du nord au sud et 5 000 km d'est en ouest, baptisée « zone inhabitée du Pacifique Sud ». Depuis 1971, plus de deux cents engins y ont été dirigés selon les décomptes, dont la station russe Mir en 2001. La Station spatiale internationale devrait l'y rejoindre vers 2030, à la fin de sa mission.",
+        "Côté vie marine, la région est pauvre. Trop loin des terres pour recevoir les poussières et les nutriments que charrient le vent et les fleuves, elle nourrit peu de plancton, donc peu d'animaux. Au nord, le grand tourbillon océanique du Pacifique Sud passe pour l'une des zones les moins productives du globe, avec des eaux parmi les plus limpides jamais mesurées.",
+        "Cette solitude ne la met pourtant pas à l'abri. En 2018, des équipages de la Volvo Ocean Race, une course autour du monde à la voile, ont prélevé de l'eau près du point Nemo. Les analyses du centre de recherche océanographique allemand GEOMAR y ont trouvé entre 9 et 26 particules de microplastique par mètre cube. C'est moins que les 57 particules mesurées près du cap Horn sur la même étape, et bien moins que les 357 relevées en mer de Chine méridionale, mais la preuve est faite : les courants transportent nos déchets jusqu'au bout du monde."
+      ],
+      "analyse": [
+        "## Un point qu'on ne voit pas",
+        "Le point Nemo n'a ni île, ni balise, ni relief visible. C'est une coordonnée au milieu d'une immense étendue d'eau. Il n'existe que parce qu'un calcul l'a défini : c'est le point de l'océan dont la distance à la côte la plus proche est la plus grande possible. Partout ailleurs sur les mers du globe, on est plus près d'une terre.",
+        "Le calcul date de 1992. Il est l'œuvre de Hrvoje Lukatela, un ingénieur géomètre canadien d'origine croate, qui s'est appuyé sur des outils numériques de cartographie. Le principe est simple à énoncer, plus difficile à exécuter : chercher le point équidistant de trois côtes, de telle sorte qu'aucune autre terre ne soit plus proche. Résultat : 48°52,6′ S et 123°23,6′ O, à 2 688 km de l'atoll Ducie au nord, de Motu Nui au nord-est et de l'île Maher au sud. Aucune de ces trois terres n'est habitée en permanence, ce qui accentue encore l'isolement. Lukatela n'est jamais allé sur place, ce qui en dit long sur l'endroit.",
+        "## Un nom tiré de la littérature",
+        "Le nom a été choisi en hommage au capitaine Nemo, le héros de Jules Verne qui parcourt les océans à bord du Nautilus en tournant le dos à la terre ferme et aux hommes. Il fonctionne doublement, puisque « nemo » signifie « personne » en latin.",
+        "La littérature avait d'ailleurs déjà rôdé dans les parages. Dans L'Appel de Cthulhu, nouvelle publiée en 1928, H. P. Lovecraft situe la cité engloutie de R'lyeh par 47°9′ S et 126°43′ O, soit à environ 310 km du point Nemo, des décennies avant que celui-ci soit calculé. L'écrivain August Derleth, qui a prolongé l'univers de Lovecraft, a placé R'lyeh un peu plus loin, à quelque 390 km. Ni l'un ni l'autre ne pouvait connaître le point Nemo : ils cherchaient simplement l'endroit le plus perdu possible pour y cacher un monstre, et ils sont tombés juste. Une coïncidence qui a nourri bien des fantasmes, d'autant qu'en 1997 des océanographes ont enregistré dans la région un son très puissant et grave, surnommé le « Bloop ». Trop fort pour une baleine bleue, il a fini par être attribué à la fracturation de glaces de l'Antarctique, un phénomène naturel dont le grondement se propage très loin dans l'eau.",
+        "## Les voisins vivent dans l'espace",
+        "Le détail le plus frappant est celui-ci : la Station spatiale internationale évolue à environ 400 km d'altitude. Quand elle survole la zone, ses occupants sont bien plus proches du point Nemo que n'importe quel habitant de la Terre, dont le plus proche vit à plus de 2 600 km. Autrement dit, la distance qui sépare le point Nemo de l'espace est environ sept fois plus courte que celle qui le sépare d'une plage.",
+        "Les marins, eux, le croisent rarement. Il se trouve à l'écart des grandes routes commerciales, mais les courses autour du monde à la voile passent dans ce Pacifique Sud redouté, où l'assistance en cas de problème est la plus lointaine de tout le parcours.",
+        "## Un cimetière spatial",
+        "Ce qui fait le malheur des navigateurs fait le bonheur des agences spatiales. Lorsqu'un satellite ou un cargo arrive en fin de vie, une partie brûle en rentrant dans l'atmosphère, mais les éléments les plus massifs peuvent atteindre la surface. On les désorbite donc vers une vaste zone d'environ 3 000 km sur 5 000 km autour du point Nemo, appelée « zone inhabitée du Pacifique Sud ». La taille de cette zone s'explique par le fait qu'un engin se fragmente pendant sa rentrée et que ses débris s'éparpillent sur des centaines de kilomètres. Viser l'endroit le plus vide de la planète, loin des côtes comme des routes maritimes, réduit au minimum le risque qu'un fragment touche qui que ce soit.",
+        "Depuis 1971, plus de deux cents engins y ont été dirigés, selon les décomptes, qui varient d'une source à l'autre. On y trouve des cargos de ravitaillement, des étages de fusées et surtout la station russe Mir, désorbitée en 2001. La Station spatiale internationale, la plus grande structure jamais assemblée en orbite, devrait elle aussi y terminer sa course vers 2030.",
+        "## Un désert marin, mais pas intact",
+        "Le point Nemo est pauvre en vie. Il est trop éloigné des côtes pour recevoir les poussières et les nutriments qu'apportent le vent et les fleuves, et le plancton, base de la chaîne alimentaire, y reste rare. Plus au nord, le tourbillon océanique du Pacifique Sud est considéré comme l'une des étendues les moins productives de la planète, avec des eaux d'une limpidité record.",
+        "Cela ne le protège pas de l'activité humaine. En 2018, lors de la Volvo Ocean Race, des voiliers équipés d'instruments scientifiques ont prélevé des échantillons d'eau dans la région. Les analyses, menées par le centre de recherche allemand GEOMAR, ont révélé entre 9 et 26 particules de microplastique par mètre cube près du point Nemo, contre 57 près du cap Horn et 357 dans un échantillon de mer de Chine méridionale. Ces mesures, prélevées sur l'étape entre Auckland et Itajaí, au Brésil, étaient présentées comme préliminaires, mais elles allaient toutes dans le même sens. Moins qu'ailleurs, donc, mais pas zéro : même l'endroit le plus isolé de l'océan reçoit des déchets venus de très loin, transportés par les courants.",
+        "## Ce qu'il faut retenir",
+        "Le point Nemo est une abstraction géographique, née d'un calcul de 1992, qui désigne le lieu de l'océan le plus éloigné de toute côte. Personne n'y vit, peu d'animaux y prospèrent, et les humains les plus proches sont souvent en orbite. Paradoxalement, c'est justement parce qu'il est loin de tout que l'humanité l'utilise comme cimetière pour ses engins spatiaux et qu'on mesure, jusque-là, la trace de ses plastiques. Il rappelle qu'à l'échelle de la planète, il n'existe plus vraiment d'endroit hors d'atteinte."
+      ],
+      "sources": [
+        {
+          "titre": "Le Point Nemo : l'endroit le plus éloigné du monde",
+          "media": "Le Figaro Nautisme",
+          "url": "https://figaronautisme.meteoconsult.fr/actus-nautisme-lifestyle/2025-12-07/73805-le-point-nemo-lendroit-le-plus-eloigne-du-monde"
+        },
+        {
+          "titre": "What is Point Nemo?",
+          "media": "Geography Realm",
+          "url": "https://www.geographyrealm.com/where-is-point-nemo/"
+        },
+        {
+          "titre": "New data reveals microplastics in world's remotest ocean",
+          "media": "The Ocean Race",
+          "url": "https://archive.theoceanrace.com/en/news/11703_New-data-reveals-microplastics-in-worlds-remotest-ocean.html"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "date": "2026-11-17",
+      "domaine": "Informatique",
+      "titre": "Le premier « bug » informatique était un vrai insecte, mais le mot existait déjà",
+      "chapo": "En 1947, des ingénieurs de Harvard retrouvent un papillon de nuit coincé dans leur calculateur et le collent dans leur journal de bord. L'histoire est vraie. Elle n'explique pourtant pas l'origine du mot.",
+      "chiffre": {
+        "valeur": "1947",
+        "legende": "un papillon de nuit est scotché dans le journal de bord du Mark II"
+      },
+      "court": "Le 9 septembre 1947, l'équipe qui fait tourner le Mark II, un calculateur électromécanique de l'université Harvard, découvre un papillon de nuit coincé dans l'un de ses relais. Les opérateurs le retirent, le scotchent dans leur journal de bord et notent à côté, à 15 h 45, « premier cas réel de bug trouvé ». La pionnière de l'informatique Grace Hopper, qui travaillait alors sur ces machines, a ensuite raconté l'anecdote pendant des décennies et l'a rendue célèbre, si bien qu'on lui attribue souvent, à tort, la découverte. Mais la phrase du journal est une plaisanterie : si le papillon était un « vrai » bug, c'est que le mot existait déjà. « Bug », qui veut dire « bestiole » en anglais, désignait depuis longtemps un petit défaut technique. Thomas Edison l'employait dès 1878 pour parler des imperfections de ses inventions. L'insecte de Harvard n'a donc pas créé le mot, il l'a associé pour de bon à l'informatique. La page du journal, avec son papillon, est aujourd'hui conservée par la Smithsonian Institution.",
+      "detaille": [
+        "Le 9 septembre 1947, le Mark II de Harvard multiplie les erreurs. Cet énorme calculateur électromécanique fonctionne grâce à des relais, de petits interrupteurs qui s'ouvrent et se ferment pour effectuer les calculs. En inspectant la machine, l'équipe trouve la cause de la panne : un papillon de nuit coincé entre les contacts du relais n° 70, sur le panneau F. L'histoire est parfois datée de 1945, mais c'est une erreur : le Mark II n'est entré en service qu'à l'été 1947.",
+        "Les opérateurs retirent l'insecte, le fixent au ruban adhésif dans le journal de bord et notent, à 15 h 45, « First actual case of bug being found », soit « premier cas réel de bug trouvé ». Parmi eux figurait vraisemblablement William « Bill » Burke, qui travaillera ensuite pour un laboratoire d'armement de la marine américaine.",
+        "La formule est une blague. Si les ingénieurs trouvent drôle d'avoir découvert un « vrai » bug, c'est que le mot désignait déjà une panne ou un défaut. On en trouve la trace chez Thomas Edison, qui écrit en 1878 à l'un de ses associés, Theodore Puskas, que dans toutes ses inventions apparaissent des « bugs », c'est-à-dire de petits défauts et difficultés qu'il faut des mois d'observation pour éliminer. Selon lui, toute invention suit le même chemin : une intuition soudaine, puis une série de ratés à corriger patiemment avant de savoir si elle réussira commercialement.",
+        "Le mot n'a pas cessé de circuler ensuite. En 1931, le Baffle Ball, présenté comme le premier flipper mécanique, est vendu avec le slogan « pas de bugs dans ce jeu ! ». Pendant la Seconde Guerre mondiale, les problèmes du matériel militaire sont couramment appelés des « bugs ». En 1944, Isaac Asimov l'utilise dans une nouvelle pour parler des pannes d'un robot. Et le verbe « debug » apparaît dès 1945 à propos de moteurs d'avion.",
+        "Grace Hopper, mathématicienne et officière de la marine américaine, travaillait alors sur les calculateurs Mark II et Mark III à Harvard. On lui attribue souvent la découverte, mais le Smithsonian estime que le journal n'était probablement pas le sien. Son rôle a été de raconter l'histoire dans de nombreuses conférences, ce qui a contribué à installer « bug » et « debug » dans le vocabulaire des programmeurs. Pionnière des langages de programmation, elle a ensuite contribué à la naissance du COBOL et terminé sa carrière contre-amirale.",
+        "Le journal, avec son papillon toujours scotché, a été transféré par la marine américaine au musée national d'histoire américaine de la Smithsonian Institution, à Washington, qui le conserve aujourd'hui dans ses collections. Il n'est pas exposé en permanence, mais sa photographie est devenue une véritable icône.",
+        "Reste à comprendre pourquoi les ingénieurs avaient choisi ce mot. En anglais, « bug » désigne d'abord une bestiole. L'image parle d'elle-même : un défaut caché qui se glisse dans un mécanisme et le dérègle de l'intérieur, comme une petite bête dans les rouages. En 1947, l'image est simplement devenue littérale.",
+        "En français, le terme officiel recommandé est « bogue », mais « bug » s'est imposé dans l'usage courant. Et les bugs n'ont rien d'anecdotique : le 4 juin 1996, le premier vol d'Ariane 5 s'est terminé par la destruction de la fusée une quarantaine de secondes après le décollage, à cause d'une erreur logicielle dans son système de guidage. En 2012, un algorithme de courtage défectueux a fait perdre environ 460 millions de dollars à la société Knight Capital en moins d'une heure. Le bug le plus célèbre de l'histoire était un insecte, mais les plus coûteux sont des lignes de code."
+      ],
+      "analyse": [
+        "## La scène de 1947",
+        "À la fin des années 1940, un ordinateur occupe une pièce entière. Le Mark II de Harvard, successeur du Mark I conçu par Howard Aiken, ne fonctionne pas avec des transistors, qui n'existent pas encore, mais avec des relais électromécaniques : de petits interrupteurs commandés par des électroaimants, qui claquent en s'ouvrant et en se fermant pour effectuer les calculs. Une poussière, un contact mal réglé ou un corps étranger suffit à fausser un résultat.",
+        "Le 9 septembre 1947, la machine se met à produire des erreurs. L'équipe l'inspecte, panneau par panneau, et finit par trouver un papillon de nuit, mort, coincé entre les contacts du relais n° 70, sur le panneau F. Les opérateurs ont le sens de l'humour et de l'archive : ils collent l'insecte dans le journal de bord et inscrivent à côté, à 15 h 45, « First actual case of bug being found ». La page est aujourd'hui l'une des pièces les plus célèbres de l'histoire de l'informatique.",
+        "Un détail de date circule souvent de travers. De nombreux récits situent la scène le 9 septembre 1945, juste après la guerre. Or le Mark II n'a été mis en service qu'à l'été 1947 : l'année 1945 est une erreur de transcription qui s'est propagée d'article en article, comme bien des détails de cette histoire.",
+        "## Un mot plus vieux que l'ordinateur",
+        "La phrase du journal contient sa propre démonstration. « Premier cas réel » sous-entend que le mot était déjà employé au sens figuré, sinon la blague tomberait à plat. Et c'est bien le cas. En 1878, Thomas Edison écrit à son associé Theodore Puskas que chacune de ses inventions passe par la même phase : une première intuition, puis l'apparition de difficultés, ces « bugs », comme on appelle les petits défauts, qu'il faut des mois de travail pour éliminer avant d'atteindre le succès commercial. L'expression circulait chez les ingénieurs de l'électricité bien avant les ordinateurs.",
+        "Elle a continué de vivre ensuite, loin de l'informatique. En 1931, les publicités du Baffle Ball, considéré comme le premier flipper mécanique, promettent qu'il n'y a « pas de bugs dans ce jeu ». Durant la Seconde Guerre mondiale, on parle de bugs pour les défaillances du matériel militaire. En 1944, Isaac Asimov l'emploie dans une nouvelle de science-fiction à propos d'un robot défaillant, et le verbe « debug » est attesté en 1945 pour la mise au point de moteurs d'avion.",
+        "Pourquoi « bug » ? Le mot anglais désigne d'abord une bestiole, un insecte, et l'image se comprend : un défaut caché qui se glisse dans un mécanisme et le dérègle de l'intérieur, comme une petite bête dans les rouages. Certains linguistes rapprochent aussi le terme d'un vieux mot anglais désignant un être effrayant, qui a donné « bugbear », un épouvantail.",
+        "L'histoire du papillon n'est donc pas l'origine du mot. Elle est le moment où il a été associé, de façon mémorable et documentée, à l'informatique naissante.",
+        "## Le rôle de Grace Hopper",
+        "Grace Hopper est une figure majeure de l'histoire de l'informatique. Mathématicienne, elle a travaillé sur les premiers calculateurs de Harvard, puis a joué un rôle clé dans la création des premiers langages de programmation proches de l'anglais, qui ont mené au COBOL. Elle a terminé sa carrière contre-amirale dans la marine américaine.",
+        "On la présente souvent comme celle qui a trouvé le papillon, voire comme l'autrice de la fameuse légende. Le Smithsonian et le Centre for Computing History sont plus prudents : le journal n'était probablement pas tenu par elle, et ce sont des opérateurs de l'équipe, parmi lesquels vraisemblablement William Burke, qui ont fait la découverte. Le vrai rôle de Grace Hopper a été de raconter l'anecdote encore et encore dans ses conférences, ce qui l'a rendue célèbre et a ancré les mots « bug » et « debug » dans la culture des programmeurs.",
+        "## Un objet de musée",
+        "Le journal de bord n'a pas disparu. Il a été transféré par la marine américaine, depuis l'un de ses centres de recherche, au musée national d'histoire américaine de la Smithsonian Institution, à Washington. Sa fiche le décrit comme un registre fabriqué en 1947 à Cambridge, dans le Massachusetts, et mentionne des matériaux « biologiques » : le papillon y est toujours. L'objet n'est pas exposé en permanence, mais ses photographies ont fait le tour du monde. Peu d'insectes peuvent se vanter d'avoir une fiche d'inventaire dans un grand musée national.",
+        "## Qu'est-ce qu'un bug aujourd'hui",
+        "Un bug, ou bogue en français, est une erreur dans un programme ou un système qui le fait se comporter d'une manière imprévue. Il ne s'agit presque jamais d'un insecte : c'est une faute de logique, un cas oublié, une mauvaise conversion de données. Il n'existe pratiquement aucun logiciel complexe totalement exempt de bugs, et une grande partie du travail des développeurs consiste à les traquer, à les reproduire puis à les corriger, une activité qu'on appelle justement le débogage.",
+        "Certains coûtent très cher. Le 4 juin 1996, la fusée Ariane 5 est détruite lors de son vol inaugural, une quarantaine de secondes après le décollage, à cause d'une erreur dans son logiciel de guidage. En 2012, un algorithme de courtage défectueux fait perdre environ 460 millions de dollars à la société Knight Capital en moins d'une heure.",
+        "## Ce qu'il faut retenir",
+        "Le premier bug informatique documenté était bel et bien un insecte, retrouvé dans le Mark II de Harvard en 1947 et toujours conservé aujourd'hui. Mais le mot « bug » existait depuis au moins Edison, et la note du journal était justement un jeu de mots. Cette histoire montre comment une anecdote vraie peut devenir un mythe sur l'origine d'un mot : les faits sont exacts, c'est la conclusion qu'on en tire qui est fausse."
+      ],
+      "sources": [
+        {
+          "titre": "Log Book With Computer Bug",
+          "media": "Smithsonian Institution",
+          "url": "https://www.si.edu/object/log-book-computer-bug:nmah_334663"
+        },
+        {
+          "titre": "First computer \"bug\" is found",
+          "media": "Centre for Computing History",
+          "url": "https://www.computinghistory.org.uk/det/5927/First-computer-bug-is-found/"
+        },
+        {
+          "titre": "Moth in the machine: Debugging the origins of 'bug'",
+          "media": "Computerworld",
+          "url": "https://www.computerworld.com/article/2515435/moth-in-the-machine--debugging-the-origins-of--bug-.html"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "date": "2026-11-18",
+      "domaine": "Langue française",
+      "titre": "« Nénuphar » s'est longtemps écrit « nénufar », et c'est toujours correct",
+      "chapo": "Le « ph » de nénuphar a l'air savant et grec. Il a pourtant été plaqué tardivement sur un mot venu de Perse, et l'Académie française donne aujourd'hui « nénufar » en premier.",
+      "chiffre": {
+        "valeur": "1935",
+        "legende": "année où l'Académie française remplace « nénufar » par « nénuphar »"
+      },
+      "court": "Le mot nénuphar n'a rien de grec. Il est entré en français au XIIIe siècle, emprunté au persan « nilufar », qui désignait la même plante, et l'arabe la nommait « nufar ». Pendant plus de deux siècles, l'Académie française l'a d'ailleurs écrit avec un f : « nenufar » en 1694, puis « nénufar » à partir de 1740. La graphie avec « ph », apparue dans l'usage au XIXe siècle, n'entre dans son dictionnaire qu'avec la 8e édition, achevée en 1935. Or en français, le « ph » sert à transcrire la lettre grecque phi, comme dans philosophie ou pharmacie. Ce « ph » donne donc au mot une fausse allure savante. Les rectifications de l'orthographe de 1990, approuvées par l'Académie, ont recommandé de revenir à « nénufar », comme à « ognon ». Aujourd'hui, la 9e édition du dictionnaire de l'Académie donne même « nénufar » en entrée principale, suivi de « nénuphar ». Les deux graphies sont correctes : écrire nénufar n'est pas une faute, c'est retrouver l'orthographe la plus ancienne.",
+      "detaille": [
+        "En français, le groupe « ph » signale presque toujours un mot d'origine grecque : il transcrit la lettre phi (φ), comme dans philosophie, photographie ou téléphone. Les mots venus d'autres langues s'écrivent en principe avec un simple f. Le nénuphar est une exception trompeuse. Ce « ph » se prononce exactement comme un f : c'est une marque purement visuelle, héritée de la façon dont les Romains transcrivaient le phi grec dans l'alphabet latin.",
+        "Selon le dictionnaire de l'Académie française, le mot apparaît en français au XIIIe siècle, emprunté au persan « nilufar », qui désignait déjà la plante aquatique. L'Office québécois de la langue française rappelle que l'arabe la nommait « nufar », prononcé « noufar ». La graphie avec un f reprend donc fidèlement la forme orientale du mot. Aucune racine grecque dans cette histoire : le mot a voyagé d'Orient jusqu'en Europe.",
+        "L'Académie l'a longtemps écrit avec un f. Ses deux premières éditions, en 1694 et 1718, donnent « nenufar ». De 1740 à 1878, toutes les éditions retiennent « nénufar ». La graphie « nénuphar », apparue dans l'usage au XIXe siècle, n'est adoptée qu'avec la 8e édition, publiée de 1932 à 1935, soit près de deux siècles et demi après la première édition. Ce « ph » donne au mot la même allure grecque que « nymphéa », le nom savant de la plante, qui lui vient bien du grec.",
+        "En 1990, le Conseil supérieur de la langue française publie un rapport sur les rectifications de l'orthographe, approuvé par l'Académie. Parmi les anomalies corrigées figurent « ognon » et « nénufar », qui retrouvent une graphie plus simple et plus ancienne. Publiées au Journal officiel le 6 décembre 1990, ces rectifications touchent environ 2 000 mots, avec des traits d'union dans les nombres, des pluriels réguliers et la suppression de certains accents circonflexes. Le même texte aligne d'autres mots sur leur famille : « charriot » sur charrue, « boursouffler » sur souffler, « bonhommie » sur homme.",
+        "La 9e édition du dictionnaire de l'Académie, achevée en 2024, va plus loin que la simple tolérance : elle place « nénufar » en entrée principale, avec la mention « ou nénuphar ». Le « ph » de 1935 n'aura donc régné seul que quelques décennies, après plus de deux siècles de « f ».",
+        "Ces rectifications sont restées discrètes jusqu'en 2016. Cette année-là, un reportage de TF1 annonce qu'elles seront appliquées dans les nouveaux manuels scolaires, et une partie du public s'indigne, notamment sur les réseaux sociaux avec le mot-clic #JeSuisCirconflexe. Beaucoup découvrent alors des recommandations publiées plus de vingt-cinq ans plus tôt. L'accent circonflexe ne disparaît pourtant pas : sur le i et le u, il est seulement facultatif, et il reste obligatoire là où il distingue deux mots, comme dans « dû » ou « mûr ».",
+        "Elles ne sont pourtant pas obligatoires. Le principe est celui de la coexistence : l'ancienne et la nouvelle orthographe sont toutes deux admises, et aucune ne peut être sanctionnée comme une faute, à l'école comme ailleurs. Écrire nénuphar reste correct, écrire nénufar l'est tout autant, et c'est même la forme la plus fidèle à l'histoire du mot. Son cousin « ognon » suit la même logique : le « i » d'oignon ne se prononce pas, vestige d'une ancienne manière de noter le son « gn », et la graphie rectifiée colle simplement à la prononciation."
+      ],
+      "analyse": [
+        "## Un « ph » qui trompe",
+        "Le « ph » a une fonction précise en français : il transcrit le phi (φ) du grec ancien. On le retrouve dans pharmacie, philosophie, téléphone ou amphithéâtre, tous construits sur des racines grecques. Ce digramme se prononce comme un f : il ne sert qu'à garder la trace visuelle de l'origine du mot, à la manière dont les Romains notaient déjà le phi dans l'alphabet latin. Les mots venus d'ailleurs, de l'arabe, du persan ou des langues germaniques, s'écrivent en principe avec un f, comme café, girafe ou sofa.",
+        "Le nénuphar, lui, n'a rien de grec. Selon le dictionnaire de l'Académie française, il est emprunté au XIIIe siècle au persan « nilufar », qui désignait la plante aquatique ; l'arabe disait « nufar ». Le dictionnaire de l'Académie de 1935 cite d'ailleurs le « sirop de nénuphar », signe que la plante entrait dans des préparations. Son « ph » est donc une graphie trompeuse : il donne au mot une fausse allure savante.",
+        "## Deux siècles de « f »",
+        "L'Académie française a longtemps écrit le mot avec un f. Les deux premières éditions de son dictionnaire, en 1694 et 1718, donnent « nenufar », sans accent. À partir de la 3e édition, en 1740, l'accent apparaît : « nénufar ». Cette forme reste en place dans les éditions de 1762, 1798, 1835 et 1878. Au total, le dictionnaire de référence a écrit le mot avec un f pendant plus de deux cent quarante ans.",
+        "Pendant ce temps, l'usage évolue. Selon l'Académie elle-même, la graphie « nénuphar » apparaît au XIXe siècle. Elle finit par s'imposer dans la 8e édition, publiée de 1932 à 1935, qui définit le « nénuphar » comme un genre de plante aquatique de la famille des nymphéacées.",
+        "## D'où vient le « ph » ?",
+        "Aucun texte officiel n'explique ce changement. On peut seulement constater que le « ph » rapproche visuellement le mot de « nymphéa », le nom savant de la même plante, et des nymphes, divinités des eaux. Ces mots-là viennent bien du grec, et leur « ph » est légitime. Appliqué au nénuphar, il revient à suggérer une étymologie qui n'existe pas.",
+        "Ce n'est pas un cas isolé dans l'histoire de la langue. Les lettrés de la Renaissance avaient déjà ajouté des lettres muettes à de nombreux mots pour les rapprocher, à tort ou à raison, du latin ou du grec. Le « ph » du nénuphar relève de la même tentation : faire paraître un mot plus savant qu'il ne l'est.",
+        "## Les rectifications de 1990",
+        "En 1990, le Conseil supérieur de la langue française propose un ensemble de rectifications, approuvées par l'Académie française et publiées au Journal officiel le 6 décembre 1990. Il ne s'agit pas d'une réforme profonde : environ 2 000 mots sont concernés. On y trouve des traits d'union dans les nombres, la simplification de certains accents circonflexes, des pluriels réguliers pour les mots étrangers et la correction de quelques anomalies.",
+        "« Ognon » et « nénufar » en font partie, aux côtés de mots alignés sur leur famille, comme « charriot » sur charrue ou « boursouffler » sur souffler. Autre exemple, « ognon » perd son « i » muet pour s'accorder à la prononciation, et l'accent circonflexe devient facultatif sur le i et le u, sauf lorsqu'il distingue deux mots, comme « dû » et « du » ou « mûr » et « mur ». Les rectifications ne créent pas toujours des orthographes nouvelles : dans le cas du nénufar, elles restaurent une forme ancienne, plus cohérente. La 9e édition du dictionnaire de l'Académie, achevée en 2024, en tire les conséquences : elle donne « nénufar » en entrée principale, suivi de « ou nénuphar ».",
+        "## La polémique de 2016",
+        "Ces rectifications sont passées presque inaperçues pendant un quart de siècle. En février 2016, un reportage de TF1 annonce qu'elles seront appliquées dans les nouveaux manuels scolaires. L'information provoque une vague d'indignation, résumée par le mot-clic #JeSuisCirconflexe, comme si l'accent circonflexe allait disparaître du jour au lendemain. Beaucoup découvrent alors l'existence de recommandations vieilles de vingt-cinq ans, qui figuraient déjà dans certains dictionnaires sans que personne ne s'en émeuve. Dans les faits, les élèves pouvaient employer l'ancienne comme la nouvelle orthographe.",
+        "Le point important pour l'usage quotidien est simple : les rectifications sont des recommandations, et aucune des deux orthographes n'est une faute. Écrire nénuphar reste correct, écrire nénufar l'est tout autant.",
+        "## L'orthographe bouge depuis toujours",
+        "L'affaire du nénufar rappelle que l'orthographe n'a rien de figé. Les éditions de 1740 et 1762 du dictionnaire de l'Académie ont modifié la graphie d'une très grande partie des mots, en généralisant les accents et en supprimant des consonnes muettes. En 1835, « j'avois » devient « j'avais » : toutes les terminaisons en « oi » prononcées « è » passent à « ai », ce qui modifie d'un coup l'imparfait de tous les verbes. En 1935, « grand'mère » laisse place à « grand-mère ». Chaque génération apprend comme immuable une orthographe que la précédente trouvait nouvelle.",
+        "## Ce qu'il faut retenir",
+        "Le nénuphar est un mot persan déguisé en mot grec. Son « ph », apparu au XIXe siècle et consacré par l'Académie en 1935, ne correspond à aucune étymologie. Les rectifications de 1990 ont proposé de revenir à « nénufar », et la dernière édition du dictionnaire de l'Académie la place désormais en tête. Cette forme est donc à la fois la plus ancienne, la plus logique et parfaitement correcte. La prochaine fois que quelqu'un vous corrige sur ce point, vous saurez que c'est le « ph » qui a des comptes à rendre."
+      ],
+      "sources": [
+        {
+          "titre": "Nénuphar (fiche terminologique)",
+          "media": "Office québécois de la langue française",
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8353851/nenuphar"
+        },
+        {
+          "titre": "Nénufar, 9e édition",
+          "media": "Dictionnaire de l'Académie française",
+          "url": "https://www.dictionnaire-academie.fr/article/A9N0258"
+        },
+        {
+          "titre": "Que faut-il savoir sur la « nouvelle orthographe » ?",
+          "media": "AFEF",
+          "url": "https://www.afef.org/system/files/2019-01/Muller-condense-sept16.pdf"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "date": "2026-11-19",
+      "domaine": "Mathématiques",
+      "titre": "À 23 personnes, il y a plus d'une chance sur deux que deux soient nées le même jour",
+      "chapo": "C'est le paradoxe des anniversaires. Il n'a rien d'un vrai paradoxe : il montre surtout que notre intuition compte mal les paires.",
+      "chiffre": {
+        "valeur": "50,7 %",
+        "legende": "probabilité d'un anniversaire commun dans un groupe de 23 personnes"
+      },
+      "court": "Dans un groupe de 23 personnes prises au hasard, la probabilité que deux d'entre elles aient le même jour d'anniversaire dépasse 50 % (50,7 % exactement). À 50 personnes, elle atteint 97 %, et à 70 personnes, 99,9 %. Le résultat surprend parce qu'on pense à tort « quelqu'un a-t-il le même anniversaire que moi ? ». Or la question porte sur n'importe quelle paire du groupe, et 23 personnes forment déjà 253 paires possibles. Ce calcul a des applications sérieuses, notamment en cryptographie, où il sert à estimer la facilité de trouver deux données ayant la même empreinte.",
+      "detaille": [
+        "Le paradoxe des anniversaires pose une question simple : combien faut-il réunir de personnes pour avoir au moins une chance sur deux que deux d'entre elles fêtent leur anniversaire le même jour ? La plupart des gens répondent 180 ou plus. La bonne réponse est 23.",
+        "Le calcul passe par l'inverse : la probabilité que tout le monde ait un anniversaire différent. La deuxième personne a 364 chances sur 365 de ne pas tomber sur le même jour que la première, la troisième 363 sur 365, et ainsi de suite. On multiplie ces probabilités. Pour 23 personnes, on obtient environ 49,3 %. La probabilité qu'au moins deux personnes partagent un anniversaire est donc d'environ 50,7 %.",
+        "La clé, c'est le nombre de paires. Avec 23 personnes, il y a 253 duos possibles, et chacun est une occasion de coïncidence. La probabilité grimpe ensuite très vite : 71 % à 30 personnes, 89 % à 40, 97 % à 50.",
+        "Notre intuition confond avec une autre question : combien faut-il de personnes pour que quelqu'un ait le même anniversaire que moi ? Là, il en faut 253 pour atteindre une chance sur deux.",
+        "Le calcul suppose que les naissances sont réparties uniformément sur 365 jours. Dans la réalité, elles ne le sont pas tout à fait, ce qui augmente légèrement les chances de coïncidence."
+      ],
+      "analyse": [
+        "## Une question piège",
+        "Posez la question autour de vous : combien faut-il de personnes dans une pièce pour qu'il y ait une chance sur deux que deux d'entre elles soient nées le même jour (même jour, même mois) ? Les réponses tournent souvent autour de la moitié de 365, soit environ 180. La réponse exacte est 23, ce qui paraît absurde au premier abord. D'où le nom de paradoxe, même s'il n'y a aucune contradiction logique, seulement un résultat contre-intuitif.",
+        "## Le calcul, pas à pas",
+        "Il est plus simple de calculer la probabilité que tous les anniversaires soient différents, puis de la soustraire de 1. On fait l'hypothèse d'une année de 365 jours, sans 29 février, et de naissances réparties au hasard.",
+        "La première personne peut être née n'importe quel jour. La deuxième doit éviter ce jour-là : elle a 364 chances sur 365. La troisième doit éviter deux jours : 363 sur 365. La 23e doit en éviter 22 : 343 sur 365. On multiplie toutes ces fractions et on obtient environ 0,493. Il y a donc 49,3 % de chances que les 23 anniversaires soient tous différents, et 50,7 % qu'au moins deux coïncident.",
+        "La progression est spectaculaire : 12 % à 10 personnes, 41 % à 20, 50,7 % à 23, 71 % à 30, 89 % à 40, 97 % à 50, 99 % à 57 et 99,9 % à 70. Il faudrait 366 personnes pour en être absolument certain.",
+        "## Pourquoi l'intuition se trompe",
+        "Notre cerveau se place spontanément au centre : il se demande si quelqu'un partage son propre anniversaire. Pour cela, la probabilité de chaque personne est de 1 sur 365, et il faut effectivement beaucoup de monde, 253 personnes, pour atteindre une chance sur deux.",
+        "Mais le paradoxe porte sur toutes les paires possibles, pas seulement celles qui vous incluent. Avec 23 personnes, on peut former 23 × 22 ÷ 2 = 253 paires. Chacune a une petite chance de coïncidence, et ces petites chances s'additionnent vite. Le nombre de paires croît beaucoup plus rapidement que le nombre de personnes : doubler le groupe multiplie à peu près les paires par quatre.",
+        "## À quoi ça sert",
+        "Ce résultat n'est pas qu'une curiosité de soirée. En informatique, une fonction de hachage transforme un fichier ou un mot de passe en une empreinte de taille fixe. Une « collision » se produit quand deux données différentes donnent la même empreinte. Le paradoxe des anniversaires montre qu'il est bien plus facile de trouver une collision quelconque que de trouver une donnée qui imite une empreinte précise. Les cryptographes parlent d'« attaque des anniversaires » et dimensionnent leurs empreintes en conséquence.",
+        "## Les limites du modèle",
+        "Le calcul classique repose sur des hypothèses simplificatrices : naissances uniformes, pas de jumeaux, pas d'années bissextiles. Dans la réalité, certaines périodes de l'année concentrent plus de naissances. Cela renforce encore la probabilité de coïncidence. Des enseignants en mathématiques utilisent d'ailleurs ce problème pour montrer qu'un résultat de probabilité dépend toujours du modèle choisi pour décrire la réalité.",
+        "## Ce qu'il faut retenir",
+        "À 23 personnes, une coïncidence d'anniversaire est plus probable qu'improbable. La leçon dépasse les anniversaires : dès qu'on cherche une coïncidence quelconque dans un groupe, il faut compter les paires, pas les individus. C'est aussi pour cela que tant de « coïncidences incroyables » de la vie quotidienne n'ont en réalité rien d'extraordinaire."
+      ],
+      "sources": [
+        {
+          "titre": "Probabilités d'anniversaire (calcul du paradoxe)",
+          "media": "dCode",
+          "url": "https://www.dcode.fr/probabilites-anniversaire"
+        },
+        {
+          "titre": "Le paradoxe des dates d'anniversaires",
+          "media": "Guillaume Blanc, Laboratoire de l'accélérateur linéaire (CNRS)",
+          "url": "https://gblanc.fr/build/anniversaires-c4950f089fec61981bf42f8e5e8eb484.pdf"
+        },
+        {
+          "titre": "Les paradoxes du paradoxe des anniversaires",
+          "media": "Repères IREM n° 142",
+          "url": "https://irem.univ-grenoble-alpes.fr/medias/fichier/142r1_1779395576022-pdf"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "date": "2026-11-20",
+      "domaine": "Histoire",
+      "titre": "En 1582, dix jours ont disparu du calendrier",
+      "chapo": "Les Romains qui se sont couchés le jeudi 4 octobre 1582 se sont réveillés le vendredi 15. Personne n'a perdu dix jours de vie : c'est le calendrier qu'on a remis à l'heure.",
+      "chiffre": {
+        "valeur": "10",
+        "legende": "jours supprimés, du 5 au 14 octobre 1582"
+      },
+      "court": "En 1582, le pape Grégoire XIII remplace le calendrier julien, hérité de Jules César, par un nouveau calendrier qui porte son nom. L'ancien comptait une année un peu trop longue, d'environ 11 minutes, et l'écart avait fini par atteindre dix jours, ce qui décalait la date de Pâques. Pour rattraper ce retard, le jeudi 4 octobre 1582 a été directement suivi du vendredi 15 octobre. La suite des jours de la semaine a été respectée, seule la numérotation a sauté. La France a fait le saut deux mois plus tard, en passant du 9 au 20 décembre 1582. Le Royaume-Uni n'a suivi qu'en 1752, et la Russie en 1918.",
+      "detaille": [
+        "Le calendrier julien, instauré par Jules César, comptait une année de 365,25 jours grâce à une année bissextile tous les quatre ans. Problème : l'année solaire réelle est un peu plus courte, d'environ 11 minutes. L'écart paraît minuscule, mais il s'accumule. Au XVIe siècle, l'équinoxe de printemps tombait une dizaine de jours trop tôt par rapport au calendrier, ce qui gênait le calcul de Pâques.",
+        "Le 24 février 1582, le pape Grégoire XIII publie la bulle Inter gravissimas, préparée avec les savants Aloysius Lilius et Christophorus Clavius. Elle prévoit deux choses. D'abord, supprimer dix jours d'un coup : le jeudi 4 octobre 1582 est suivi du vendredi 15 octobre. Ensuite, changer la règle des années bissextiles : les années séculaires (1700, 1800, 1900) ne le sont plus, sauf si elles sont divisibles par 400 (1600, 2000).",
+        "Les pays catholiques adoptent le changement rapidement. L'Italie, l'Espagne et le Portugal sautent en octobre. La France suit en décembre, en passant du dimanche 9 au lundi 20 décembre 1582. Les pays protestants et orthodoxes traînent : le Royaume-Uni et ses colonies sautent 11 jours en 1752, la Russie 13 jours en 1918.",
+        "Conséquence amusante : la « révolution d'Octobre » russe de 1917 a eu lieu en novembre selon notre calendrier. Et Cervantès et Shakespeare, souvent dits morts « le même jour » en avril 1616, sont morts à la même date mais pas le même jour, l'Espagne et l'Angleterre n'utilisant pas le même calendrier."
+      ],
+      "analyse": [
+        "## Le problème des 11 minutes",
+        "Un calendrier sert à faire coïncider le décompte des jours avec le cycle des saisons. En 46 avant notre ère, Jules César impose un calendrier de 365 jours, avec un jour supplémentaire tous les quatre ans. L'année moyenne dure donc 365,25 jours. C'est une très bonne approximation, mais l'année solaire, mesurée d'un équinoxe de printemps au suivant, est plus courte d'environ 11 minutes.",
+        "Onze minutes par an, c'est un jour tous les 128 ans environ. Au fil des siècles, le calendrier prend de l'avance sur le Soleil. Au concile de Nicée, en 325, l'équinoxe de printemps tombait autour du 21 mars. Au XVIe siècle, il était remonté vers le 11 mars.",
+        "## Un enjeu religieux",
+        "Ce décalage pose un problème à l'Église, car la date de Pâques est calculée à partir de l'équinoxe de printemps. Si le calendrier dérive, Pâques finira par s'éloigner du printemps. Plusieurs papes envisagent une réforme. C'est Grégoire XIII qui la mène à bien, en s'appuyant sur les travaux du médecin et astronome Aloysius Lilius et du mathématicien jésuite Christophorus Clavius.",
+        "## La bulle de 1582",
+        "Le 24 février 1582, la bulle Inter gravissimas fixe la réforme. Elle supprime les dix jours compris entre le 5 et le 14 octobre inclus, pour ramener l'équinoxe vers le 21 mars. Pour ne pas casser le rythme de la semaine, qui compte pour le culte, le jeudi 4 octobre est suivi du vendredi 15. La bulle précise même que ces jours disparus ne comptent pas dans le calcul des échéances de prêts ou d'impôts.",
+        "Pour éviter que la dérive ne recommence, la règle des années bissextiles change. Une année reste bissextile si elle est divisible par 4, sauf les années séculaires, qui ne le sont que si elles sont divisibles par 400. Ainsi 1600 et 2000 ont été bissextiles, mais pas 1700, 1800 ni 1900. Avec cette règle, l'écart avec le Soleil tombe à environ un jour tous les 3 300 ans.",
+        "## Une adoption en ordre dispersé",
+        "Les États catholiques suivent vite. L'Italie, l'Espagne, le Portugal et la Pologne sautent dès octobre 1582. En France, Henri III fixe le changement à décembre : le dimanche 9 décembre 1582 est suivi du lundi 20. Des registres paroissiaux de l'époque notent que Noël a été célébré plus tôt que prévu cette année-là.",
+        "Les pays protestants se méfient d'une réforme venue de Rome. Les régions protestantes d'Allemagne attendent 1700. Le Royaume-Uni et ses colonies américaines ne basculent qu'en 1752, en passant du 2 au 14 septembre, avec 11 jours à rattraper puisque l'écart a encore grandi. La Russie, restée fidèle au calendrier julien, saute 13 jours en février 1918, après la révolution.",
+        "## Des dates qui mentent",
+        "Ces décalages créent des pièges pour les historiens. La révolution russe d'octobre 1917 s'est déroulée en novembre selon le calendrier grégorien. Cervantès et Shakespeare sont tous deux associés à la date du 23 avril 1616, mais l'Espagne utilisait déjà le calendrier grégorien et l'Angleterre encore le julien : leurs morts sont séparées d'une dizaine de jours. L'usage est de garder, pour les événements anciens, la date du calendrier en vigueur à l'époque et à l'endroit concerné.",
+        "## Ce qu'il faut retenir",
+        "Les dix jours de 1582 n'ont pas été « volés » : seules les dates ont changé, pas le temps vécu. Le calendrier grégorien, aujourd'hui utilisé presque partout dans le monde, est le fruit d'un compromis entre astronomie et religion, et d'une adoption qui a pris plus de trois siècles."
+      ],
+      "sources": [
+        {
+          "titre": "Calendrier grégorien",
+          "media": "Encyclopædia Universalis",
+          "url": "https://www.universalis.fr/encyclopedie/calendrier-gregorien/"
+        },
+        {
+          "titre": "15 octobre 1582 : naissance du calendrier grégorien",
+          "media": "Hérodote.net",
+          "url": "https://www.herodote.net/Naissance_du_calendrier_gregorien-evenement-15821015.php"
+        },
+        {
+          "titre": "Calendrier grégorien : qu'est-ce que c'est ?",
+          "media": "Futura Sciences",
+          "url": "https://www.futura-sciences.com/sciences/definitions/univers-calendrier-gregorien-896/"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "date": "2026-11-21",
+      "domaine": "Psychologie",
+      "titre": "L'effet Dunning-Kruger existe, mais pas sous la forme qui circule partout",
+      "chapo": "« Les incompétents ne savent pas qu'ils sont incompétents. » La formule a fait le tour d'Internet. L'étude d'origine, et les débats qu'elle a suscités, sont plus nuancés.",
+      "chiffre": {
+        "valeur": "1999",
+        "legende": "publication de l'étude de Justin Kruger et David Dunning, à l'université Cornell"
+      },
+      "court": "En 1999, les psychologues Justin Kruger et David Dunning, de l'université Cornell, testent des étudiants en logique, en grammaire et en humour, puis leur demandent d'estimer leur classement. Les moins performants surestiment nettement leur niveau, tandis que les meilleurs se sous-estiment un peu. Leur explication : les compétences nécessaires pour bien faire une tâche sont aussi celles qui permettent de juger qu'on la fait mal. Depuis, des chercheurs ont montré qu'une partie de cet effet s'explique par des artefacts statistiques, comme la régression vers la moyenne. Le consensus actuel : l'effet existe en moyenne, mais il est plus faible que ce que la culture populaire en a fait. Et la fameuse courbe du « mont de la stupidité » ne vient pas de l'étude.",
+      "detaille": [
+        "L'étude originale, publiée en 1999 dans le Journal of Personality and Social Psychology sous le titre « Unskilled and Unaware of It », repose sur quatre expériences. Des étudiants passent des tests de raisonnement logique, de grammaire anglaise et de sens de l'humour, puis estiment leur score et leur rang par rapport aux autres.",
+        "Les participants du quart le plus faible se placent bien au-dessus de leur rang réel. Ceux du quart le plus fort se sous-estiment légèrement, car ils supposent que ce qui est facile pour eux l'est pour tout le monde. Kruger et Dunning parlent d'un « double fardeau » : le manque de compétence produit de mauvais résultats et empêche aussi de s'en rendre compte. Ils montrent d'ailleurs qu'une courte formation améliore à la fois le niveau et la lucidité des moins bons.",
+        "Plusieurs critiques ont suivi. La principale est la régression vers la moyenne : dès que deux mesures sont imparfaitement liées, les scores extrêmes de l'une s'accompagnent de scores plus modérés de l'autre. S'y ajoute l'effet « meilleur que la moyenne », la tendance générale à se situer au-dessus du milieu. Des simulations avec des données aléatoires reproduisent un graphique ressemblant.",
+        "David Dunning a répondu que l'effet résiste, réduit, quand on corrige ces biais statistiques. La position la plus solide aujourd'hui est donc intermédiaire : un phénomène réel mais modeste, qui décrit une tendance moyenne et non une loi applicable à chaque individu."
+      ],
+      "analyse": [
+        "## L'expérience de Cornell",
+        "À la fin des années 1990, Justin Kruger et David Dunning, psychologues à l'université Cornell, aux États-Unis, veulent savoir si les gens jugent correctement leurs propres compétences. Ils soumettent des étudiants à des tests dans trois domaines : le raisonnement logique, la grammaire anglaise et l'humour (il s'agit de juger quelles blagues sont drôles, en comparant avec l'avis de comédiens professionnels). Après chaque test, les participants estiment leur score et se situent par rapport aux autres.",
+        "Les résultats, publiés en 1999, frappent les esprits. Les étudiants du quart le plus faible se classent nettement au-dessus de leur rang réel, souvent au-dessus de la moyenne. Les plus forts, eux, sont plus justes, voire se sous-estiment un peu. Le titre de l'article résume la thèse : « Incompétents et inconscients de l'être ».",
+        "## L'explication du double fardeau",
+        "Pour Kruger et Dunning, le phénomène tient à la métacognition, c'est-à-dire la capacité à évaluer sa propre pensée. Pour repérer une faute de grammaire dans sa copie, il faut connaître la règle. Celui qui l'ignore fait la faute et ne la voit pas. Le manque de compétence coûte donc deux fois : il produit de mauvais résultats et les rend invisibles à celui qui les produit.",
+        "Les auteurs apportent un argument fort : dans une de leurs expériences, une courte formation en logique améliore à la fois le niveau des moins bons et la justesse de leur auto-évaluation. Quant aux meilleurs, leur légère sous-estimation viendrait d'un « faux consensus » : ils pensent que ce qui leur paraît facile l'est pour tout le monde.",
+        "## Les critiques statistiques",
+        "Dès 2002, d'autres chercheurs contestent l'interprétation. Leur argument principal est la régression vers la moyenne. Quand on compare deux mesures imparfaitement liées, comme un score réel et une auto-évaluation, les valeurs extrêmes de la première sont mécaniquement associées à des valeurs moins extrêmes de la seconde. Les plus faibles semblent alors se surestimer et les plus forts se sous-estimer, même si tout le monde se trompait de façon modeste et aléatoire.",
+        "Deuxième ingrédient, l'effet « meilleur que la moyenne » : dans de nombreux domaines, la plupart des gens se placent au-dessus du milieu. Si presque tout le monde se situe autour du 60e ou du 70e centile, les moins bons paraissent forcément trop optimistes. D'autres travaux, comme ceux des économistes Jan Magnus et Anatoly Peresetsky, soulignent que les échelles bornées (de 0 à 100, par exemple) suffisent à produire une partie du motif. Plusieurs simulations avec des données purement aléatoires reproduisent un graphique très proche de celui de 1999.",
+        "## La réponse de Dunning",
+        "David Dunning a répondu à ces critiques, notamment en 2022 dans la revue de la Société britannique de psychologie. Selon lui, quand on applique des méthodes qui neutralisent la régression vers la moyenne, l'effet diminue mais persiste. Il rappelle aussi que la recherche ne s'est pas arrêtée à la deuxième expérience de 1999 et que d'autres travaux confirment une part de déficit métacognitif.",
+        "Le débat n'est pas clos. La lecture la plus prudente est qu'une partie du motif est statistique et une partie est psychologique, et que la taille de l'effet réel est plus modeste que sa réputation.",
+        "## Le mythe du « mont de la stupidité »",
+        "Sur Internet, l'effet est souvent illustré par une courbe : la confiance grimpe très vite chez le débutant (le « mont de la stupidité »), s'effondre quand il découvre l'étendue de ce qu'il ignore, puis remonte lentement avec l'expertise. Cette courbe ne figure dans aucun article de Kruger et Dunning. Leurs données comparaient des groupes de niveaux différents à un moment donné, elles ne suivaient pas l'évolution de la confiance d'une personne au fil de son apprentissage.",
+        "La formule « les idiots sont trop idiots pour savoir qu'ils sont idiots » déforme aussi l'étude. Les participants n'étaient pas des « idiots », mais des étudiants testés sur des tâches précises. Et l'effet décrit une tendance moyenne, pas une règle qui s'appliquerait à chacun.",
+        "## Ce qu'il faut retenir",
+        "L'effet Dunning-Kruger est une observation réelle, mais plus fragile et plus limitée que son succès ne le laisse croire. Son histoire est surtout une belle leçon de méthode : un graphique qui semble évident peut avoir plusieurs explications, et une découverte scientifique peut devenir un slogan qui ne lui ressemble plus. Ironie du sort, beaucoup de ceux qui citent l'effet pour se moquer des autres surestiment leur compréhension de l'étude."
+      ],
+      "sources": [
+        {
+          "titre": "The Dunning-Kruger effect and its discontents (réponse de David Dunning)",
+          "media": "The Psychologist, British Psychological Society",
+          "url": "https://bps.org.uk/psychologist/dunning-kruger-effect-and-its-discontents"
+        },
+        {
+          "titre": "Statistics Explain Why Less-Competent People Tend to Overestimate Themselves",
+          "media": "HSE University",
+          "url": "https://hse.ru/en/news/562876777.html"
+        },
+        {
+          "titre": "The Dunning-Kruger Effect: The Study and Its Measurement Critique",
+          "media": "CASRAI",
+          "url": "https://casrai.org/news/the-dunning-kruger-effect-study-metric-critique"
+        }
+      ]
+    }
+  ]
+}
