@@ -1,6 +1,6 @@
 /* Un savoir par jour : cache hors ligne.
    L'interface est servie depuis le cache, les savoirs sont toujours redemandés au réseau d'abord. */
-const CACHE = "savoir-v3";
+const CACHE = "savoir-v4";
 const SHELL = [
   "./",
   "index.html",
