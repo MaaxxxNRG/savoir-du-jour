@@ -771,6 +771,62 @@
           "url": "https://news.cornell.edu/stories/2025/10/mist-opportunity-reveals-how-onions-make-cooks-cry"
         }
       ]
+    },
+    {
+      "n": 14,
+      "date": "2026-11-28",
+      "domaine": "Archéologie",
+      "titre": "Le plus vieux papyrus écrit raconte le chantier de la Grande Pyramide",
+      "chapo": "Il y a environ 4 500 ans, un inspecteur nommé Merer a tenu le journal de bord de son équipe de bateliers. Retrouvé en 2013 au bord de la mer Rouge, ce document décrit de l'intérieur l'acheminement des pierres de la pyramide de Khéops.",
+      "chiffre": {
+        "valeur": "4 500 ans",
+        "legende": "l'âge approximatif du « journal de Merer », parmi les plus anciens papyrus inscrits connus"
+      },
+      "court": "En 2013, la mission archéologique dirigée par l'égyptologue Pierre Tallet a mis au jour des centaines de fragments de papyrus au ouadi el-Jarf, un ancien port égyptien de la côte de la mer Rouge. Datés de la fin du règne de Khéops, vers 2600 à 2500 avant notre ère selon les chronologies, ils comptent parmi les plus anciens papyrus inscrits jamais découverts. Le mieux conservé est le journal de bord d'un fonctionnaire de rang moyen, l'inspecteur Merer. Jour après jour, il y note les déplacements de son équipe sur le Nil : chargement de blocs de calcaire fin dans les carrières de Toura, sur la rive est, puis navigation jusqu'à Akhet-Khoufou, « l'Horizon de Khéops », le nom du complexe de la Grande Pyramide à Gizeh. Le texte mentionne un bassin artificiel près du site et le demi-frère du roi, Ânkhhaf, qui dirigeait alors les travaux. Pour la première fois, un témoin direct du chantier raconte la logistique de la pyramide. Une étude géologique publiée en 2022 a d'ailleurs confirmé qu'un bras du Nil, aujourd'hui disparu, permettait aux bateaux d'approcher Gizeh à cette époque.",
+      "detaille": [
+        "Le ouadi el-Jarf se trouve sur la rive égyptienne du golfe de Suez, à une vingtaine de kilomètres au sud de la ville moderne de Zafarana. Identifié comme un port pharaonique en 2008, le site est fouillé depuis 2011 par une équipe de l'Institut français d'archéologie orientale (Ifao) et de l'université Paris-Sorbonne, menée par Pierre Tallet. Les archéologues y ont trouvé une jetée en forme de L qui protégeait un mouillage artificiel de plus de deux hectares et demi, des dizaines d'ancres en calcaire, et, à quelques kilomètres dans les terres, une trentaine de galeries creusées dans la roche pour entreposer des bateaux démontés et du matériel.",
+        "C'est devant l'entrée de deux de ces galeries, coincés entre les blocs qui les fermaient, qu'ont surgi en 2013 des centaines de fragments de papyrus, issus d'une trentaine de rouleaux différents. Ils avaient probablement été abandonnés lors de la fermeture du port, à la fin du règne de Khéops. L'un des papyrus les mieux conservés porte une date : l'« année après le 13e recensement du bétail ». Comme ce recensement avait lieu en principe tous les deux ans, les chercheurs situent le document vers la 26e ou la 27e année du règne, les publications ne s'accordant pas sur ce point.",
+        "Plus d'une centaine de fragments appartiennent au journal d'un même homme, Merer, qui porte le titre d'inspecteur. Pierre Tallet en a publié l'édition complète en 2017 dans la collection des Mémoires de l'Ifao. Le journal est organisé comme un tableau : chaque jour du mois occupe une colonne, avec une ligne pour le lieu du matin et une autre pour l'activité. On y suit l'équipe de Merer pendant plusieurs mois de l'année, à la saison où la crue du Nil remplit la vallée.",
+        "Le cœur du récit tient en quelques gestes répétés. L'équipe charge des blocs de calcaire fin dans les carrières de Toura, en face de l'actuel Caire, tantôt dans la partie nord, tantôt dans la partie sud. Elle passe la nuit à « She-Khoufou », le bassin de Khéops, ou à « l'entrée du bassin », puis atteint Akhet-Khoufou, le complexe pyramidal de Gizeh, le lendemain. Le retour vers les carrières prend environ une journée. Ce calcaire blanc de Toura servait selon toute vraisemblance au revêtement extérieur de la pyramide, ce parement lisse aujourd'hui presque entièrement disparu.",
+        "Le journal cite aussi un personnage de premier plan : Ânkhhaf, demi-frère de Khéops, qui porte le titre de « chef de tous les travaux du roi ». Le texte indique qu'il contrôle un poste installé à l'entrée du bassin. Sa tombe, le mastaba G7510, se trouve à Gizeh, et ce papyrus aide à mieux situer sa carrière dans le temps. Quant à l'équipe de Merer, Pierre Tallet l'estime à une quarantaine d'hommes, d'après les quantités de rations qu'elle reçoit, alors que les premières publications avançaient environ 200.",
+        "Restait une question : comment des bateaux chargés de pierres atteignaient-ils un plateau désertique situé à plusieurs kilomètres du fleuve actuel ? En 2022, une équipe dirigée par Hader Sheisha et Christophe Morhange, du Cerege à Aix-Marseille Université, y a répondu dans la revue PNAS. En analysant les pollens piégés dans des carottes de sédiments forées sous la plaine de Gizeh, les chercheurs ont reconstitué 8 000 ans d'histoire du fleuve. Sous Khéops et ses successeurs, un bras du Nil aujourd'hui disparu, baptisé « bras de Khoufou », restait à un niveau élevé, environ 40 % de son maximum de l'Holocène, assez pour faire naviguer des embarcations jusqu'au pied du plateau. Ce résultat, obtenu par une méthode indépendante, rejoint ce que décrit Merer."
+      ],
+      "analyse": [
+        "## Un port au bout du désert",
+        "Pourquoi un document sur la pyramide de Gizeh a-t-il été retrouvé à plus de 100 kilomètres de là, au bord de la mer Rouge ? La réponse tient à la mobilité des équipes de l'Ancien Empire. Le ouadi el-Jarf était un port d'expédition vers le Sinaï, d'où l'on rapportait le cuivre et la turquoise. Pierre Tallet et Gregory Marouard ont décrit en 2014, dans la revue Near Eastern Archaeology, ses installations exceptionnelles : une jetée en L qui avance sous l'eau sur plus de 150 mètres puis bifurque, un mouillage protégé d'environ deux hectares et demi, au moins 22 ancres en calcaire retrouvées en place et un dépôt de 99 autres rangées entre deux bâtiments. Dans les terres, une trentaine de galeries de 15 à plus de 30 mètres de long servaient d'entrepôts. Les bateliers de Merer, qui transportaient des pierres sur le Nil en été, pouvaient être envoyés le reste de l'année vers ce port. Leurs archives ont voyagé avec eux, puis ont été laissées sur place lorsque le site a été fermé.",
+        "## Lire un papyrus de 4 500 ans",
+        "Les fragments, souvent minuscules, ont dû être nettoyés, assemblés et photographiés avant toute lecture. L'écriture est le hiératique, une forme cursive des hiéroglyphes utilisée par les scribes pour l'administration. Le journal de Merer suit une mise en page rigoureuse, découpée en jours et en mois, qui en fait une sorte de registre comptable autant qu'un récit. Pierre Tallet a publié en 2017 l'édition des deux rouleaux les mieux conservés, appelés papyrus Jarf A et B, dans le volume 136 des Mémoires de l'Ifao. D'autres journaux, dont celui d'un certain Dedi, sont encore en cours d'étude. La datation repose sur la mention de l'« année après le 13e recensement du bétail ». Ces recensements étant en principe bisannuels, on obtient une 26e ou 27e année de règne, ce qui place le document à la toute fin du règne de Khéops, au moment où la pyramide recevait ses dernières finitions. Le flou de la chronologie absolue de l'Ancien Empire explique que les dates en années avant notre ère varient de plusieurs décennies selon les auteurs.",
+        "## Une logistique fluviale au quotidien",
+        "Le papyrus B montre une routine précise. Un jour, l'équipe quitte les carrières de Toura sud chargée de pierres et passe la nuit au bassin de Khéops. Le lendemain, elle arrive à Akhet-Khoufou. Le surlendemain, elle remonte vers les carrières. Les départs depuis Toura nord s'organisent de la même façon, avec une étape à « l'entrée du bassin ». À partir de ces rotations, plusieurs synthèses estiment que l'équipe faisait deux à trois allers-retours tous les dix jours, avec à chaque fois quelques dizaines de blocs de deux à trois tonnes. Ces chiffres sont des extrapolations : le texte décrit les trajets avec précision mais ne donne pas toujours le nombre de pierres. Le journal ne parle ni de rampes ni de la manière de hisser les blocs, et ne tranche donc pas les débats sur les techniques de construction elles-mêmes.",
+        "## Le bras perdu du Nil",
+        "Le récit de Merer suppose que les bateaux pouvaient approcher le plateau de Gizeh, aujourd'hui éloigné du fleuve. L'étude de Hader Sheisha, Christophe Morhange et huit collègues, parue en 2022 dans PNAS, apporte une confirmation venue des sciences de la Terre. Les chercheurs ont foré des carottes dans la plaine d'inondation de Gizeh et y ont compté les grains de pollen. Les plantes de berge comme le papyrus, ou au contraire les herbes de terrains secs, renseignent sur la présence d'eau à chaque époque. Résultat : sur 8 000 ans, le « bras de Khoufou » a connu un haut niveau pendant la période humide africaine, puis il est resté à environ 40 % de ce maximum sous Khéops, Khéphren et Mykérinos, avant de baisser. Des géographes extérieurs à l'étude jugent toutefois l'approche en partie spéculative, car les datations des carottes sont peu nombreuses et la profondeur exacte du chenal reste inconnue.",
+        "## Ce que le journal change, et ce qu'il ne dit pas",
+        "Le papyrus de Merer ne résout pas tous les mystères de la Grande Pyramide, mais il offre un témoignage de première main sur l'organisation du chantier. Les travailleurs y apparaissent comme des équipes structurées, rattachées à une administration centrale, recevant des rations dont le scribe tient le compte. Cette image rejoint les résultats des fouilles du village des ouvriers de Gizeh, menées depuis les années 1990, et s'éloigne des scènes de foules d'esclaves popularisées par Hérodote et le cinéma. Des incertitudes demeurent : l'effectif de l'équipe, estimé à une quarantaine d'hommes par Pierre Tallet en 2017, avait d'abord été évalué à environ 200 ; l'emplacement exact du bassin de Khéops reste discuté ; la longueur du règne déduite des recensements fait débat. Une prépublication de 2024 sur arXiv, non relue par des pairs, s'appuie même sur ce journal pour discuter du calendrier civil de l'époque, signe que le document nourrit encore la recherche.",
+        "## Ce qu'il faut retenir",
+        "Découvert en 2013 au ouadi el-Jarf, sur la côte de la mer Rouge, le journal de l'inspecteur Merer est l'un des plus anciens papyrus inscrits connus, daté de la fin du règne de Khéops. Il raconte comment une équipe de bateliers transportait les blocs de calcaire fin de Toura jusqu'à Gizeh, en passant par un bassin artificiel, sous l'autorité d'Ânkhhaf, demi-frère du roi. Une étude des pollens publiée en 2022 confirme qu'un bras du Nil aujourd'hui disparu rendait cette navigation possible. Le document éclaire la logistique et l'organisation du chantier, mais il laisse ouvertes les questions sur la façon dont les pierres étaient ensuite mises en place."
+      ],
+      "sources": [
+        {
+          "titre": "The Harbor of Khufu on the Red Sea Coast at Wadi al-Jarf, Egypt",
+          "media": "Tallet et Marouard, 2014, Near Eastern Archaeology",
+          "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/RedSea/WadiJarf-Tallet2014.pdf"
+        },
+        {
+          "titre": "Nile waterscapes facilitated the construction of the Giza pyramids during the 3rd millennium BCE",
+          "media": "Sheisha et al., 2022, PNAS",
+          "url": "https://doi.org/10.1073/pnas.2202530119"
+        },
+        {
+          "titre": "Les papyrus de la mer Rouge I. Le « journal de Merer » (papyrus Jarf A et B)",
+          "media": "Tallet, 2017, Mémoires de l'Ifao 136",
+          "url": "https://www.orient-mediterranee.com/wp-content/uploads/2022/04/1705_tallet.pdf"
+        },
+        {
+          "titre": "Ouadi el-Jarf",
+          "media": "Institut français d'archéologie orientale (Ifao)",
+          "url": "https://www.ifao.egnet.net/recherche/archeologie/ouadi-el-jarf/"
+        }
+      ]
     }
   ]
 }
