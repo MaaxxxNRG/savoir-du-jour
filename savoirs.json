@@ -995,6 +995,63 @@
           "url": "https://doi.org/10.1073/pnas.0811827106"
         }
       ]
+    },
+    {
+      "n": 18,
+      "date": "2026-12-02",
+      "domaine": "Linguistique",
+      "titre": "« Hein ? » : le petit mot qu'on retrouve presque à l'identique dans 31 langues",
+      "chapo": "Des linguistes ont comparé des conversations enregistrées sur cinq continents : partout, pour faire répéter quelqu'un, on lâche la même syllabe brève et interrogative. Et selon eux, c'est un vrai mot.",
+      "chiffre": {
+        "valeur": "1,4 min",
+        "legende": "intervalle moyen entre deux demandes de répétition ou de précision dans une conversation, mesuré dans 12 langues"
+      },
+      "court": "Quand on n'a pas bien entendu, on lâche un « hein ? » sans y penser. En 2013, trois chercheurs de l'Institut Max Planck de psycholinguistique de Nimègue, Mark Dingemanse, Francisco Torreira et Nick Enfield, ont voulu savoir si ce petit son existait ailleurs. Ils ont rassemblé des données sur 31 langues et analysé en détail des enregistrements de conversations spontanées dans dix d'entre elles, du lao au russe en passant par une langue du Ghana et une autre d'Équateur. Résultat : partout, on trouve une syllabe très courte, une voyelle ouverte et neutre, sans consonne finale, le plus souvent avec une intonation de question. Une ressemblance aussi forte entre langues sans lien de parenté est rarissime, car la plupart des mots sont arbitraires. Les auteurs y voient un cas d'évolution convergente : le besoin d'interrompre vite et à peu de frais une conversation pour la réparer aurait façonné partout la même forme. Et c'est bien un mot, disent-ils, car chaque langue l'adapte à ses propres sons et à sa mélodie. Une étude de 2015 a montré qu'on en a besoin souvent : environ une fois toutes les 1,4 minute.",
+      "detaille": [
+        "Dans presque toutes les langues, le lien entre un mot et ce qu'il désigne est arbitraire : rien dans le son « chien » n'évoque l'animal, et l'anglais dit « dog », le mandarin « gǒu ». Quand on trouve le même mot dans des langues qui n'ont aucun ancêtre commun, c'est donc une énigme, et c'est exactement ce qu'une équipe de l'Institut Max Planck de psycholinguistique, à Nimègue aux Pays-Bas, a mis en évidence avec un mot que personne ne prenait au sérieux : « hein ? ».",
+        "Mark Dingemanse, Francisco Torreira et Nick Enfield ont publié leurs résultats en novembre 2013 dans la revue PLOS ONE. Ils ont d'abord compilé des descriptions de ce petit mot interrogatif dans 31 langues. Puis ils ont étudié en profondeur dix langues de cinq continents : le cha'palaa d'Équateur, le néerlandais, l'islandais, l'italien, le lao, le mandarin, le murrinh-patha du nord de l'Australie, le russe, le siwu du Ghana et l'espagnol. Pour chacune, ils disposaient d'enregistrements vidéo de conversations aussi informelles que possible, filmées sur le terrain, dans la vie de tous les jours.",
+        "Ils en ont extrait 196 occurrences, soit une vingtaine par langue en moyenne. Trois annotateurs, qui ignoraient de quelle langue provenait chaque extrait, les ont décrites selon cinq critères : la fermeture de la bouche, la nasalité, la voyelle, l'intonation et le début du mot. Pour l'espagnol et le cha'palaa, des mesures acoustiques sur logiciel sont venues vérifier ces jugements à l'oreille.",
+        "Le résultat est frappant. Partout, il s'agit d'une seule syllabe, sans consonne finale. La voyelle se situe toujours dans la même zone, ouverte, plutôt à l'avant de la bouche, et sans arrondir les lèvres. Le début est le plus souvent nu, ou bien marqué par un léger souffle « h » ou par un petit coup de glotte. L'intonation est presque toujours celle d'une question. Bref, une forme minimale, facile et rapide à produire, qui sonne comme une interrogation.",
+        "Mais ce n'est pas un simple grognement universel, comme un éternuement ou un cri de douleur. Chaque langue façonne ce mot à sa manière. Les langues qui possèdent un vrai son « h », comme le néerlandais et l'islandais, l'emploient volontiers au début, tandis que le mandarin, le russe ou le murrinh-patha, qui n'en ont pas, s'en passent presque toujours. La voyelle choisie est celle du système de chaque langue. Et l'intonation copie celle des questions locales : la plupart des langues la font monter, mais l'islandais et le cha'palaa la font descendre, exactement comme leurs questions du type « quoi ? ». Pour les chercheurs, ces adaptations prouvent qu'il s'agit d'un mot appris, intégré à la langue, et non d'un réflexe.",
+        "Comment expliquer alors que des peuples sans contact aient abouti à la même forme ? Les auteurs proposent l'idée d'évolution convergente, empruntée à la biologie : les requins et les dauphins ont acquis une silhouette semblable parce qu'ils affrontent le même milieu, pas parce qu'ils sont cousins. De même, toutes les conversations humaines ont besoin d'un signal pour dire « je n'ai pas saisi », à émettre en une fraction de seconde, sans bloquer l'échange. La syllabe la plus simple et la plus neutre possible, prononcée sur un ton de question, serait la solution optimale, trouvée indépendamment partout.",
+        "Ce besoin est loin d'être anecdotique. En 2015, une douzaine de chercheurs réunis autour de Mark Dingemanse ont analysé près de 50 heures de conversations dans douze langues, dont une langue des signes. Ils ont relevé 2 053 moments où quelqu'un demande de répéter ou de préciser : en moyenne, cela arrive une fois toutes les 1,4 minute. Le travail de 2013 a d'ailleurs reçu en 2015 un prix Ig Nobel de littérature, une récompense parodique qui salue les recherches qui « font d'abord rire, puis réfléchir »."
+      ],
+      "analyse": [
+        "## Un mot que les dictionnaires ignoraient",
+        "Pendant longtemps, les linguistes ont laissé de côté les petits mots comme « hein ? », « hm » ou « ah ». On les rangeait parmi les interjections, à la frontière du langage, plus proches du bruit que du vocabulaire. Cette négligence tient à une habitude ancienne : la linguistique s'est construite sur l'écrit et sur des phrases soignées, alors que ces mots n'existent presque que dans la conversation orale, spontanée, entre proches. Or la conversation est le lieu premier du langage, celui où les enfants l'apprennent et où il s'emploie le plus. C'est ce constat qui a guidé un programme de recherche de l'Institut Max Planck de psycholinguistique de Nimègue, financé par le Conseil européen de la recherche, consacré à ce que ses membres appellent l'« infrastructure » de la conversation : les mécanismes, souvent invisibles, qui permettent à deux personnes de se comprendre en temps réel. Le petit « hein ? » en est une pièce maîtresse, puisqu'il sert à signaler un problème d'écoute ou de compréhension.",
+        "## Une méthode de terrain",
+        "L'étude publiée en 2013 dans PLOS ONE par Mark Dingemanse, Francisco Torreira et Nick Enfield repose sur un matériau rare : des conversations filmées dans leur cadre naturel, recueillies par des linguistes de terrain à travers le monde. On y trouve des langues très parlées, comme le mandarin, l'espagnol ou le russe, mais aussi des langues comptant quelques milliers de locuteurs, comme le siwu au Ghana, le cha'palaa en Équateur ou le murrinh-patha en Australie. Ce choix compte : si l'on n'avait comparé que des langues européennes, apparentées entre elles, une ressemblance n'aurait rien prouvé. Les dix langues retenues appartiennent à des familles distinctes et réparties sur cinq continents. Les auteurs ont aussi veillé à ce que toutes possèdent par ailleurs un mot interrogatif équivalent à « quoi ? », afin de comparer des usages comparables. Les 196 occurrences extraites ont été codées par trois annotateurs qui ne savaient pas de quelle langue venait chaque son, une précaution contre le biais de celui qui entend ce qu'il s'attend à entendre.",
+        "## Ce que les chiffres montrent",
+        "Le portrait obtenu est d'une grande régularité. Partout, le mot tient en une syllabe, toujours ouverte, c'est-à-dire sans consonne finale. La voyelle occupe une même région de l'espace vocalique, basse et antérieure ou centrale, sans arrondissement des lèvres. L'attaque est souvent absente ; quand elle existe, elle se réduit à un souffle ou à un coup de glotte. L'intonation est interrogative. Les auteurs insistent pourtant sur un point : il ne s'agit pas du même mot prononcé à l'identique. L'espagnol vise une voyelle mi-ouverte, le cha'palaa une voyelle plus centrale, et chaque langue habille le mot selon ses propres règles. C'est précisément cette combinaison d'une forme commune et de variations locales prévisibles qui rend le cas si intéressant.",
+        "## Pourquoi parler d'un vrai mot",
+        "Une objection vient naturellement : ce son pourrait n'être qu'un réflexe, comme le « aïe » qu'on pousse sous l'effet de la douleur, un geste vocal inné qui n'aurait rien d'un mot. Les chercheurs répondent par les variations observées. Un réflexe biologique ne devrait pas dépendre de la langue parlée ; or la présence d'un « h », la qualité de la voyelle et surtout la mélodie suivent le système de chaque langue. Le cas de l'islandais et du cha'palaa est parlant : leurs « hein ? » descendent au lieu de monter, parce que leurs questions du type « quoi ? » descendent aussi. Le mot s'apprend donc, comme le reste du vocabulaire, ce qui suppose que les enfants l'acquièrent au même titre que les autres. Pour eux, c'est bien un mot, et sans doute l'un des rares qu'on pourrait qualifier d'universels, à condition de prendre ce terme au sens d'une forme convergente plutôt que d'un mot hérité d'un ancêtre commun.",
+        "## Une conversation qui se répare sans cesse",
+        "La seconde étude, parue dans PLOS ONE en 2015 sous la direction de Mark Dingemanse avec onze coauteurs, dont Stephen Levinson et Nick Enfield, élargit la perspective. Elle porte sur douze langues de huit familles, dont la langue des signes argentine, et sur environ quatre heures de conversation par langue. Les chercheurs y ont recensé 2 053 « réparations », ces moments où l'on demande à l'autre de répéter ou de préciser, soit en moyenne une toutes les 1,4 minute. Ils distinguent trois grandes stratégies, présentes dans toutes les langues : la demande ouverte, comme « hein ? », qui ne dit pas ce qui a échappé ; la demande ciblée, comme « qui ? » ; et la proposition, comme « elle a eu un garçon ? ». Les locuteurs choisissent en général la formule la plus précise possible, et réservent la demande ouverte aux situations difficiles : bruit de fond, paroles qui se chevauchent, activité menée en parallèle. Le « hein ? » apparaît ainsi comme l'outil de secours, le plus court et le moins coûteux, quand on ne sait même pas ce qu'on a manqué. Une limite demeure : ces études reposent sur quelques heures d'enregistrement par langue, et l'absence de données historiques empêche de retracer l'origine de ce mot.",
+        "## Ce qu'il faut retenir",
+        "Dans des langues sans aucune parenté, des chercheurs de Nimègue ont retrouvé un même petit mot pour faire répéter : une syllabe brève, à la voyelle ouverte, sur un ton de question. Ce n'est pas un réflexe, puisque chaque langue l'adapte à ses sons et à sa mélodie, mais une forme apprise que la conversation aurait façonnée partout de la même façon, par évolution convergente. Comme on en a besoin environ toutes les 90 secondes, ce mot discret compte parmi les plus utiles du langage humain."
+      ],
+      "sources": [
+        {
+          "titre": "Is “Huh?” a Universal Word? Conversational Infrastructure and the Convergent Evolution of Linguistic Items",
+          "media": "Dingemanse, Torreira et Enfield, 2013, PLOS ONE",
+          "url": "https://doi.org/10.1371/journal.pone.0078273"
+        },
+        {
+          "titre": "Universal Principles in the Repair of Communication Problems",
+          "media": "Dingemanse et al., 2015, PLOS ONE",
+          "url": "https://doi.org/10.1371/journal.pone.0136100"
+        },
+        {
+          "titre": "Universals of conversation",
+          "media": "Max-Planck-Gesellschaft",
+          "url": "https://www.mpg.de/7605822/universals-conversation"
+        },
+        {
+          "titre": "Is \"huh\" a universal word?",
+          "media": "Max-Planck-Gesellschaft",
+          "url": "https://www.mpg.de/9646844/is-huh-a-universal-word"
+        }
+      ]
     }
   ]
 }
