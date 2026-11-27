@@ -1052,6 +1052,63 @@
           "url": "https://www.mpg.de/9646844/is-huh-a-universal-word"
         }
       ]
+    },
+    {
+      "n": 19,
+      "date": "2026-12-03",
+      "domaine": "Sport",
+      "titre": "La « main chaude » des basketteurs, longtemps jugée illusoire, existerait bel et bien",
+      "chapo": "Pendant trente ans, la science a affirmé que les séries de paniers n'étaient qu'un mirage statistique. En 2018, deux économistes ont découvert que c'était le calcul qui se trompait.",
+      "chiffre": {
+        "valeur": "+13 points",
+        "legende": "hausse moyenne de réussite après trois tirs réussis chez les joueurs de Cornell, une fois le biais statistique corrigé"
+      },
+      "court": "Quand un basketteur enchaîne les paniers, joueurs et supporters sont persuadés qu'il a « la main chaude » et que son prochain tir a plus de chances de rentrer. En 1985, les psychologues Thomas Gilovich, Robert Vallone et Amos Tversky ont testé cette croyance sur des matchs de NBA et sur des séances de tirs d'étudiants de Cornell. Verdict : aucune trace d'effet, les séries ressemblaient à celles qu'on obtient en lançant une pièce. La « main chaude » est devenue un exemple classique d'illusion cognitive, enseigné dans les manuels. Mais en 2018, les économistes Joshua Miller et Adam Sanjurjo ont montré dans la revue Econometrica que la méthode de 1985 contenait un piège subtil : dans une suite finie de lancers, la proportion de réussites mesurée juste après une série de réussites est mécaniquement tirée vers le bas. Une fois ce biais corrigé, les mêmes données de Cornell révèlent un gain moyen d'environ 13 points de pourcentage après trois paniers d'affilée. D'autres travaux, sur les lancers francs ou le concours à trois points de la NBA, confirment un effet réel, même si son ampleur en match reste débattue.",
+      "detaille": [
+        "L'expression vient du basket américain : avoir la « hot hand », c'est traverser un moment où tout rentre. L'idée paraît évidente à ceux qui pratiquent, et elle guide des décisions concrètes, comme donner davantage le ballon au joueur en réussite. En 1985, trois chercheurs en psychologie, Thomas Gilovich, Robert Vallone et Amos Tversky, ont voulu vérifier si cette impression correspondait à quelque chose de mesurable. Leur article, publié dans la revue Cognitive Psychology, s'intitulait sans ambiguïté « La main chaude au basket : sur la mauvaise perception des séquences aléatoires ».",
+        "Leur enquête comportait plusieurs volets. Ils ont d'abord interrogé une centaine d'amateurs de basket des universités Cornell et Stanford, qui partageaient très majoritairement la croyance. Ils ont ensuite analysé les tirs des joueurs des Philadelphia 76ers lors de la saison 1980-1981, puis les lancers francs des Boston Celtics. Enfin, ils ont organisé une expérience contrôlée : 26 joueurs et joueuses des équipes universitaires de Cornell ont chacun tiré 100 fois, d'une distance choisie pour qu'ils réussissent environ un tir sur deux.",
+        "Le résultat semblait net. Après une série de paniers, les étudiants réussissaient en moyenne 49 % de leurs tirs, contre 45 % après une série d'échecs. L'écart était trop faible pour être statistiquement distingué du hasard. Les auteurs en ont conclu que les séries observées sur le terrain étaient celles qu'on attend d'un processus aléatoire, et que notre cerveau, mal à l'aise avec le hasard, y voyait des motifs inexistants. L'étude est devenue l'un des exemples les plus cités de biais cognitif.",
+        "Plus de trente ans plus tard, Joshua Miller et Adam Sanjurjo, deux économistes, ont relu la méthode avec un œil de mathématicien. Leur article paru en 2018 dans Econometrica révèle un biais de sélection inattendu. Prenons trois lancers d'une pièce équilibrée et, pour chaque suite possible, calculons la proportion de « pile » qui suit un « pile ». La moyenne de ces proportions ne vaut pas 50 %, mais 5/12, soit environ 42 %. Le simple fait de regarder ce qui suit une réussite, dans une suite courte, favorise les échecs.",
+        "Appliqué au protocole de Cornell, avec 100 tirs par joueur et des séries de trois paniers, ce biais atteint environ 8 points de pourcentage en défaveur de la réussite. Autrement dit, un tireur parfaitement aléatoire aurait dû afficher un écart de -8 points entre l'après-série réussie et l'après-série manquée. Or les étudiants affichaient un écart positif. Une fois la correction faite, l'avantage moyen après trois paniers monte à environ 13 points, un résultat statistiquement significatif : 19 des 25 joueurs analysés montrent un effet dans le bon sens.",
+        "D'autres équipes vont dans la même direction. En 2011, Gur Yaari et Shmuel Eisenmann ont étudié dans la revue PLOS ONE plus de 300 000 lancers francs de NBA tirés entre 2005 et 2010 : le second lancer d'une paire rentre plus souvent quand le premier a été réussi. Miller et Sanjurjo ont aussi trouvé un effet dans le concours à trois points de la NBA, où les conditions de tir sont standardisées.",
+        "Le débat n'est pas clos pour autant. En match, les défenses resserrent leur marquage sur un joueur en réussite, qui ose aussi des tirs plus difficiles, ce qui masque l'effet. Les analyses récentes qui tentent de corriger ces facteurs trouvent généralement un effet réel mais modeste. Et rien ne dit que l'intuition des supporters soit bien calibrée : la main chaude existe sans doute, mais pas forcément avec la force qu'on lui prête dans les tribunes."
+      ],
+      "analyse": [
+        "## Une croyance de vestiaire devenue cas d'école",
+        "Peu de résultats de psychologie ont connu une carrière aussi brillante que celui de la « main chaude ». Lorsque Thomas Gilovich, Robert Vallone et Amos Tversky publient leur étude en 1985, Tversky est déjà connu, avec Daniel Kahneman, pour ses travaux sur les heuristiques et les biais, ces raccourcis mentaux qui nous font commettre des erreurs systématiques de jugement. La main chaude offre une illustration parfaite de ce programme : une croyance partagée par presque tous les praticiens, des entraîneurs aux commentateurs, qui ne résisterait pas à l'examen des chiffres. Le message est séduisant parce qu'il est contre-intuitif, et il franchit vite les frontières du sport. On le retrouve dans les manuels de psychologie, dans les cours d'économie comportementale et dans les ouvrages grand public sur nos erreurs de raisonnement, souvent rapproché de l'« erreur du joueur », cette tendance à croire qu'après plusieurs rouges à la roulette, le noir est « dû ».",
+        "## Ce que montrait vraiment l'étude de 1985",
+        "La force de l'article tenait à la diversité de ses données. Les tirs en match des 76ers de Philadelphie, neuf joueurs suivis sur 48 rencontres à domicile, ne montraient aucune tendance des réussites à s'enchaîner. Les lancers francs des Celtics de Boston, tirés sans défenseur, non plus. Restait une objection évidente : en match, un joueur en confiance tente des tirs plus risqués et attire la défense. D'où l'expérience de Cornell, où 14 hommes et 12 femmes tiraient chacun 100 fois depuis une distance réglée pour obtenir environ 50 % de réussite, et pariaient même sur leurs propres tirs. Là encore, le taux de réussite après trois paniers, 49 %, différait à peine de celui observé après trois échecs, 45 %. Les auteurs concluaient que l'impression de série naît de notre mauvaise compréhension du hasard : une suite réellement aléatoire contient plus de répétitions qu'on ne l'imagine, et nous les interprétons comme des signes.",
+        "## Le piège caché dans les petites séries",
+        "En 2018, Joshua Miller, alors à l'université Bocconi, et Adam Sanjurjo, de l'université d'Alicante, publient dans Econometrica, l'une des revues d'économie les plus exigeantes, un article au titre malicieux : « Surpris par l'erreur de la main chaude ? Une vérité dans la loi des petits nombres ». Ils y démontrent qu'une méthode en apparence irréprochable est biaisée. L'exemple le plus simple tient en trois lancers de pièce. Sur les huit suites possibles, on garde les six où au moins un « pile » est suivi d'un autre lancer, et l'on calcule pour chacune la part de « pile » après un « pile ». La moyenne de ces six proportions vaut 5/12, environ 42 %, et non 50 %. Avec quatre lancers, elle tombe à 17/42, environ 40,5 %. La raison est subtile : dans une suite courte, chaque réussite que l'on choisit comme point de départ « consomme » une place qui aurait pu accueillir une autre réussite, de sorte que les échecs se retrouvent surreprésentés juste après. Ce biais s'affaiblit quand les suites s'allongent, mais il reste important pour des séries de trois succès dans 100 tirs.",
+        "## Les mêmes données, une autre conclusion",
+        "Dans le protocole de Cornell, Miller et Sanjurjo calculent qu'un tireur parfaitement régulier, sans aucune main chaude, devrait afficher en moyenne un écart de -8 points entre sa réussite après trois paniers et sa réussite après trois échecs. Les étudiants de 1985 affichaient au contraire un écart positif. Il faut donc comparer leur résultat à -8, et non à zéro. Avec une méthode de test adaptée, l'écart moyen passe ainsi d'environ +3 à environ +13 points de pourcentage, avec une probabilité inférieure à 1 % que ce résultat soit dû au hasard, et 19 des 25 joueurs analysés vont dans ce sens. Pour donner un ordre de grandeur, les auteurs rappellent qu'en NBA, lors de la saison 2015-2016, l'écart entre le tireur à trois points médian et le meilleur était de 12 points. Le résultat tient quand on modifie la définition d'une série : environ +10 points avec quatre paniers consécutifs, +5,4 points avec deux, même si la significativité varie selon le choix.",
+        "## Des confirmations, et des nuances",
+        "Cette réhabilitation ne repose pas sur un seul jeu de données. Sur le concours à trois points de la NBA, où 33 tireurs enchaînent les tentatives dans des conditions identiques, Miller et Sanjurjo trouvent un gain moyen corrigé de 8 points. Indépendamment, Gur Yaari, chercheur à Yale, et Shmuel Eisenmann ont analysé en 2011 plus de 300 000 lancers francs de NBA : un premier lancer réussi augmente la probabilité de réussir le second. Leur interprétation est prudente : il pourrait moins s'agir d'un succès qui en entraîne un autre que de périodes où le joueur est simplement en meilleure forme, ce que les lancers francs ne suffisent pas à trancher. En match, la question reste plus difficile, car le joueur en réussite tente des tirs plus lointains et la défense s'adapte. Des chercheurs qui ont corrigé la difficulté des tirs grâce aux caméras de suivi des joueurs ont trouvé un effet faible mais significatif, et les études plus récentes convergent vers un effet réel mais d'ampleur modeste.",
+        "## Ce qu'il faut retenir",
+        "La main chaude n'était pas une pure illusion : dans des conditions contrôlées, un joueur qui vient de réussir plusieurs tirs a réellement plus de chances de réussir le suivant, et l'erreur de 1985 venait d'un biais statistique que personne n'avait repéré pendant trois décennies. L'histoire est précieuse parce qu'elle retourne la leçon initiale contre les chercheurs eux-mêmes : notre intuition du hasard est souvent trompeuse, mais celle des experts aussi, quand les séries sont courtes. Elle ne donne pas pour autant raison à toutes les croyances des tribunes. L'effet existe, mais en match il est modeste et difficile à isoler, et sa cause exacte, gain de confiance ou simple bonne forme passagère, fait encore débat."
+      ],
+      "sources": [
+        {
+          "titre": "The hot hand in basketball: On the misperception of random sequences",
+          "media": "Gilovich, Vallone et Tversky, 1985, Cognitive Psychology",
+          "url": "https://doi.org/10.1016/0010-0285(85)90010-6"
+        },
+        {
+          "titre": "Surprised by the Hot Hand Fallacy? A Truth in the Law of Small Numbers",
+          "media": "Miller et Sanjurjo, 2018, Econometrica",
+          "url": "https://doi.org/10.3982/ECTA14943"
+        },
+        {
+          "titre": "The Hot (Invisible?) Hand: Can Time Sequence Patterns of Success/Failure in Sports Be Modeled as Repeated Random Independent Trials?",
+          "media": "Yaari et Eisenmann, 2011, PLOS ONE",
+          "url": "https://doi.org/10.1371/journal.pone.0024532"
+        },
+        {
+          "titre": "Momentum isn't magic: vindicating the hot hand with the mathematics of streaks",
+          "media": "The Conversation",
+          "url": "https://theconversation.com/momentum-isnt-magic-vindicating-the-hot-hand-with-the-mathematics-of-streaks-74786"
+        }
+      ]
     }
   ]
 }
